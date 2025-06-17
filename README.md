@@ -11,6 +11,8 @@ A simple REST API providing data about traditional Serbian slavas (patron saint 
 - Filter by fasting type (`posna` or `mrsna`)
 - JSON response with UTF-8 encoding
 - Deployed and hosted on [Vercel](https://vercel.com/)
+- Test it [API Test](https://serbian-slavas-api.vercel.app/api/test)
+- Working [API Live](https://serbian-slavas-api.vercel.app/api/slavas)
 
 ---
 
