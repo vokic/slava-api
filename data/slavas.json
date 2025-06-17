@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Sveti Nikola",
+    "date": "0000-12-19",
+    "type": "mrsna",
+    "description": "Jedna od najčešćih slava u Srbiji."
+  },
+  {
+    "id": 2,
+    "name": "Sveti Sava",
+    "date": "0000-01-27",
+    "type": "posna",
+    "description": "Prva srpska škola i prosvetitelj."
+  }
+]
