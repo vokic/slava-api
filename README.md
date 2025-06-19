@@ -3,7 +3,7 @@
 ## API Status
 
 [![API Status](https://img.shields.io/uptimerobot/status/m800768228-3171c2291130d85e0de4924a)](https://uptimerobot.com/dashboard#M800768228)  
-<span style="font-size: 0.7em;">Status provided by <a href="https://uptimerobot.com">UptimeRobot</a></span>
+_Status provided by [UptimeRobot](https://uptimerobot.com)_
 
 A simple REST API providing data about traditional Serbian slavas (patron saint days), with optional filters by month(s) and date(s).
 
