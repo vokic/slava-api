@@ -64,9 +64,9 @@ Get the full list of slavas or filter by query parameters.
 **Example requests:**
 
 ```bash
-curl https://serbian-slavas-api.vercel.app/api/slavas
-curl https://serbian-slavas-api.vercel.app/api/slavas?month=01
-curl https://serbian-slavas-api.vercel.app/api/slavas?months=01,02
-curl https://serbian-slavas-api.vercel.app/api/slavas?date=1.1.,7.1.
+curl "https://serbian-slavas-api.vercel.app/api/slavas"
+curl "https://serbian-slavas-api.vercel.app/api/slavas?month=01"
+curl "https://serbian-slavas-api.vercel.app/api/slavas?months=01,02"
+curl "https://serbian-slavas-api.vercel.app/api/slavas?date=1.1.,7.1."
 curl "https://serbian-slavas-api.vercel.app/api/slavas?months=01,02&date=1.1.,7.1."
 ```
