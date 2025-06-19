@@ -48,13 +48,16 @@
         ],
         "responses": {
           "200": {
-            "description": "A JSON array of slava objects.",
+            "description": "A JSON object where each key is a month number (with leading zero) mapping to an array of slava objects.",
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/Slava"
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/components/schemas/Slava"
+                    }
                   }
                 }
               }
@@ -79,14 +82,9 @@
       "Slava": {
         "type": "object",
         "properties": {
-          "monthKey": {
-            "type": "string",
-            "description": "Month number with leading zero",
-            "example": "01"
-          },
           "month": {
             "type": "string",
-            "description": "Month name in Serbian",
+            "description": "Month name in Serbian, if present",
             "example": "Januar"
           },
           "date": {
@@ -112,7 +110,7 @@
             "example": "Božić"
           }
         },
-        "required": ["monthKey", "date", "events"]
+        "required": ["date", "events"]
       },
       "Error": {
         "type": "object",
