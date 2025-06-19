@@ -2,37 +2,48 @@
   "openapi": "3.0.3",
   "info": {
     "title": "Serbian Slava API",
-    "version": "1.0.0",
-    "description": "API to fetch Serbian slavas with optional filters for month and fasting type."
+    "version": "1.0.1",
+    "description": "API to fetch Serbian slavas with optional filters for month(s) and date(s)."
   },
   "paths": {
     "/api/slavas": {
       "get": {
         "summary": "Get list of Serbian slavas",
-        "description": "Retrieve all slavas or filter by month and/or fasting type.",
+        "description": "Retrieve all slavas or filter by single month, multiple months, and/or specific dates.",
         "tags": ["Slava API"],
         "parameters": [
           {
             "name": "month",
             "in": "query",
-            "description": "Numeric month filter (1-12). Returns slavas in this month.",
+            "description": "Single numeric month filter with leading zero (e.g. '01'). Returns slavas in this month.",
             "required": false,
             "schema": {
               "type": "string",
-              "pattern": "^(0?[1-9]|1[0-2])$"
+              "pattern": "^(0[1-9]|1[0-2])$"
             },
-            "example": "12"
+            "example": "01"
           },
           {
-            "name": "type",
+            "name": "months",
             "in": "query",
-            "description": "Fasting type filter. Allowed values: \"posna\" or \"mrsna\".",
+            "description": "Comma-separated list of months with leading zeros (e.g. '01,02,12'). Returns slavas in these months.",
             "required": false,
             "schema": {
               "type": "string",
-              "enum": ["posna", "mrsna"]
+              "pattern": "^((0[1-9]|1[0-2])(,(0[1-9]|1[0-2]))*)$"
             },
-            "example": "posna"
+            "example": "01,02,12"
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "Comma-separated list of dates in 'D.M.' format (e.g. '1.1.,7.1.'). Returns slavas on these dates.",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "pattern": "^((\\d{1,2}\\.\\d{1,2}\\.?)(,(\\d{1,2}\\.\\d{1,2}\\.?)*)?)$"
+            },
+            "example": "1.1.,7.1."
           }
         ],
         "responses": {
@@ -68,38 +79,47 @@
       "Slava": {
         "type": "object",
         "properties": {
-          "id": {
-            "type": "integer",
-            "example": 1
-          },
-          "name": {
+          "monthKey": {
             "type": "string",
-            "example": "Sveti Nikola"
+            "description": "Month number with leading zero",
+            "example": "01"
+          },
+          "month": {
+            "type": "string",
+            "description": "Month name in Serbian",
+            "example": "Januar"
           },
           "date": {
             "type": "string",
-            "description": "ISO 8601 format (e.g. '0000-12-19')",
-            "example": "0000-12-19"
+            "description": "Date in D.M. format, e.g., '1.1.'",
+            "example": "1.1."
           },
-          "type": {
+          "julian_date": {
             "type": "string",
-            "description": "Fasting type",
-            "enum": ["posna", "mrsna"],
-            "example": "mrsna"
+            "description": "Julian calendar date",
+            "example": "19.12."
           },
-          "description": {
+          "events": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "List of events on this day"
+          },
+          "common": {
             "type": "string",
-            "example": "Jedna od najčešćih slava u Srbiji."
+            "description": "Common or special occasion name (if any)",
+            "example": "Božić"
           }
         },
-        "required": ["id", "name", "date", "type", "description"]
+        "required": ["monthKey", "date", "events"]
       },
       "Error": {
         "type": "object",
         "properties": {
           "message": {
             "type": "string",
-            "example": "Invalid query parameter: month must be 1–12"
+            "example": "Invalid query parameter: month must be between 01 and 12"
           }
         },
         "required": ["message"]
