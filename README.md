@@ -1,5 +1,7 @@
 # Serbian Slava API
 
+[![Vercel](https://vercelbadge.vercel.app/api/slava-api-two)](https://slava-api-two.vercel.app)
+
 A simple REST API providing data about traditional Serbian slavas (patron saint days), with optional filters by month and fasting type.
 
 ---
@@ -10,15 +12,27 @@ A simple REST API providing data about traditional Serbian slavas (patron saint 
 - Filter by month (1-12)
 - Filter by fasting type (`posna` or `mrsna`)
 - JSON response with UTF-8 encoding
-- Deployed and hosted on [Vercel](https://vercel.com/)
-- Test it [API Test](https://serbian-slavas-api.vercel.app/api/test)
-- Working [API Live](https://serbian-slavas-api.vercel.app/api/slavas)
+- Deployed and hosted on Vercel
+
+---
+
+## Test it
+
+- **API Test:**  
+  [https://slava-api-two.vercel.app/api/slavas](https://slava-api-two.vercel.app/api/slavas)
+
+- **Working API Live:**  
+  [https://slava-api-two.vercel.app/api/slavas?month=12](https://slava-api-two.vercel.app/api/slavas?month=12)
+
+- **Swagger UI Documentation:**  
+  Interactive API docs with example requests and response schemas.  
+  [https://slava-api-two.vercel.app/dist/](https://slava-api-two.vercel.app/dist/)
 
 ---
 
 ## API Endpoints
 
-### GET `/api/slavas`
+### GET /api/slavas
 
 Get the full list of slavas or filter by query parameters.
 
@@ -26,13 +40,13 @@ Get the full list of slavas or filter by query parameters.
 
 | Parameter | Type   | Description                              | Example |
 | --------- | ------ | ---------------------------------------- | ------- |
-| `month`   | string | Numeric month (1-12) to filter slavas    | `12`    |
-| `type`    | string | Fasting type filter (`posna` or `mrsna`) | `posna` |
+| month     | string | Numeric month (1-12) to filter slavas    | 12      |
+| type      | string | Fasting type filter (`posna` or `mrsna`) | posna   |
 
 **Example requests:**
 
 ```bash
-curl https://your-vercel-url.vercel.app/api/slavas
-curl https://your-vercel-url.vercel.app/api/slavas?month=12
-curl https://your-vercel-url.vercel.app/api/slavas?type=posna
+curl https://slava-api-two.vercel.app/api/slavas
+curl https://slava-api-two.vercel.app/api/slavas?month=12
+curl https://slava-api-two.vercel.app/api/slavas?type=posna
 ```
