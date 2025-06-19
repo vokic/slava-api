@@ -1,6 +1,8 @@
 # Serbian Slava API
 
-[![Vercel](https://vercelbadge.vercel.app/api/slava-api-two)](https://slava-api-two.vercel.app)
+## API Status
+
+[![API Status](https://img.shields.io/uptimerobot/status/m800768228-3171c2291130d85e0de4924a)](https://uptimerobot.com/dashboard#M800768228)
 
 A simple REST API providing data about traditional Serbian slavas (patron saint days), with optional filters by month and fasting type.
 
