@@ -10,6 +10,7 @@
       "get": {
         "summary": "Get list of Serbian slavas",
         "description": "Retrieve all slavas or filter by month and/or fasting type.",
+        "tags": ["Slava API"],
         "parameters": [
           {
             "name": "month",
