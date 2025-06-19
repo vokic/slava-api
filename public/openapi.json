@@ -1,0 +1,53 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Serbian Slava API",
+    "version": "1.0.0",
+    "description": "API to fetch Serbian slavas with optional filters."
+  },
+  "paths": {
+    "/api/slavas": {
+      "get": {
+        "summary": "Get list of Serbian slavas",
+        "parameters": [
+          {
+            "name": "month",
+            "in": "query",
+            "description": "Numeric month (1–12)",
+            "required": false,
+            "schema": { "type": "string", "pattern": "^(0?[1-9]|1[0-2])$" }
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "description": "Fasting type (posna or mrsna)",
+            "required": false,
+            "schema": { "type": "string", "enum": ["posna", "mrsna"] }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of slavas",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": { "type": "integer" },
+                      "name": { "type": "string" },
+                      "date": { "type": "string" },
+                      "type": { "type": "string" },
+                      "description": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
