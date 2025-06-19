@@ -1,33 +1,38 @@
 import slavasData from "../data/slavas.json";
 
 export default function handler(req, res) {
-  const { month, months, date } = req.query;
+  const { month, date } = req.query;
 
-  // Prepare list of months to filter by
-  let monthsToFilter = [];
+  let results = [];
 
-  if (month) {
-    monthsToFilter = [month];
-  } else if (months) {
-    monthsToFilter = months.split(",").map((m) => m.trim());
+  if (date) {
+    // Filter by date(s), ignoring month if date provided
+    const datesToFilter = date.split(",").map((d) => d.trim());
+    for (const mKey in slavasData) {
+      const days = slavasData[mKey];
+      if (!Array.isArray(days)) continue;
+      const filtered = days.filter(
+        (day) => day.date && datesToFilter.includes(day.date)
+      );
+      results.push(...filtered);
+    }
+  } else if (month) {
+    // Filter by month key
+    const days = slavasData[month];
+    if (days && Array.isArray(days)) {
+      // Return all days with date in this month
+      results = days.filter((day) => day.date);
+    }
   } else {
-    monthsToFilter = Object.keys(slavasData);
-  }
-
-  // Collect all days from the filtered months
-  let days = [];
-  for (const m of monthsToFilter) {
-    if (slavasData[m]) {
-      days.push(...slavasData[m].filter((d) => d.date)); // only days with date
+    // No filter, return all days with date
+    for (const mKey in slavasData) {
+      const days = slavasData[mKey];
+      if (!Array.isArray(days)) continue;
+      const filtered = days.filter((day) => day.date);
+      results.push(...filtered);
     }
   }
 
-  // Filter by dates if provided
-  if (date) {
-    const datesToFilter = date.split(",").map((d) => d.trim());
-    days = days.filter((d) => datesToFilter.includes(d.date));
-  }
-
   res.setHeader("Content-Type", "application/json; charset=utf-8");
-  res.status(200).json(days);
+  res.status(200).json(results);
 }
