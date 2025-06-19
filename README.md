@@ -24,20 +24,20 @@ A simple REST API providing data about traditional Serbian slavas (patron saint 
 ## Test it
 
 - **API Test:**  
-  [https://slava-api-two.vercel.app/api/slavas](https://slava-api-two.vercel.app/api/slavas)
+  [https://serbian-slavas-api.vercel.app/api/slavas](https://serbian-slavas-api.vercel.app/api/slavas)
 
 - **Filter by single month:**  
-  [https://slava-api-two.vercel.app/api/slavas?month=01](https://slava-api-two.vercel.app/api/slavas?month=01)
+  [https://serbian-slavas-api.vercel.app/api/slavas?month=01](https://serbian-slavas-api.vercel.app/api/slavas?month=01)
 
 - **Filter by multiple months:**  
-  [https://slava-api-two.vercel.app/api/slavas?months=01,02](https://slava-api-two.vercel.app/api/slavas?months=01,02)
+  [https://serbian-slavas-api.vercel.app/api/slavas?months=01,02](https://serbian-slavas-api.vercel.app/api/slavas?months=01,02)
 
 - **Filter by specific dates:**  
-  [https://slava-api-two.vercel.app/api/slavas?date=1.1.,7.1.](https://slava-api-two.vercel.app/api/slavas?date=1.1.,7.1.)
+  [https://serbian-slavas-api.vercel.app/api/slavas?date=1.1.,7.1.](https://serbian-slavas-api.vercel.app/api/slavas?date=1.1.,7.1.)
 
 - **Swagger UI Documentation:**  
   Interactive API docs with example requests and response schemas.  
-  [https://slava-api-two.vercel.app/dist/](https://slava-api-two.vercel.app/dist/)
+  [https://serbian-slavas-api.vercel.app/dist/](https://serbian-slavas-api.vercel.app/dist/)
 
 ---
 
@@ -64,9 +64,9 @@ Get the full list of slavas or filter by query parameters.
 **Example requests:**
 
 ```bash
-curl https://slava-api-two.vercel.app/api/slavas
-curl https://slava-api-two.vercel.app/api/slavas?month=01
-curl https://slava-api-two.vercel.app/api/slavas?months=01,02
-curl https://slava-api-two.vercel.app/api/slavas?date=1.1.,7.1.
-curl "https://slava-api-two.vercel.app/api/slavas?months=01,02&date=1.1.,7.1."
+curl https://serbian-slavas-api.vercel.app/api/slavas
+curl https://serbian-slavas-api.vercel.app/api/slavas?month=01
+curl https://serbian-slavas-api.vercel.app/api/slavas?months=01,02
+curl https://serbian-slavas-api.vercel.app/api/slavas?date=1.1.,7.1.
+curl "https://serbian-slavas-api.vercel.app/api/slavas?months=01,02&date=1.1.,7.1."
 ```
