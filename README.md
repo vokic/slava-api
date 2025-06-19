@@ -45,9 +45,9 @@ Get the full list of slavas or filter by query parameters.
 
 **Query Parameters:**
 
-| Parameter | Type   | Description                                         | Example     |
-| --------- | ------ | --------------------------------------------------- | ----------- |
-| month     | string | Single numeric month (with leading zero, e.g. "01") | 01          |
+| Parameter    | Type   | Description                                         | Example     |
+| ------------ | ------ | --------------------------------------------------- | ----------- |
+| month        | string | Single numeric month (with leading zero, e.g. "01") | 01          |
 | date(s)      | string | Comma-separated list of dates in `MM-DD` format     | 01-01,07-01 |
 
 **Notes:**
