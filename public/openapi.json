@@ -3,50 +3,105 @@
   "info": {
     "title": "Serbian Slava API",
     "version": "1.0.0",
-    "description": "API to fetch Serbian slavas with optional filters."
+    "description": "API to fetch Serbian slavas with optional filters for month and fasting type."
   },
   "paths": {
     "/api/slavas": {
       "get": {
         "summary": "Get list of Serbian slavas",
+        "description": "Retrieve all slavas or filter by month and/or fasting type.",
         "parameters": [
           {
             "name": "month",
             "in": "query",
-            "description": "Numeric month (1–12)",
+            "description": "Numeric month filter (1-12). Returns slavas in this month.",
             "required": false,
-            "schema": { "type": "string", "pattern": "^(0?[1-9]|1[0-2])$" }
+            "schema": {
+              "type": "string",
+              "pattern": "^(0?[1-9]|1[0-2])$"
+            },
+            "example": "12"
           },
           {
             "name": "type",
             "in": "query",
-            "description": "Fasting type (posna or mrsna)",
+            "description": "Fasting type filter. Allowed values: \"posna\" or \"mrsna\".",
             "required": false,
-            "schema": { "type": "string", "enum": ["posna", "mrsna"] }
+            "schema": {
+              "type": "string",
+              "enum": ["posna", "mrsna"]
+            },
+            "example": "posna"
           }
         ],
         "responses": {
           "200": {
-            "description": "Array of slavas",
+            "description": "A JSON array of slava objects.",
             "content": {
               "application/json": {
                 "schema": {
                   "type": "array",
                   "items": {
-                    "type": "object",
-                    "properties": {
-                      "id": { "type": "integer" },
-                      "name": { "type": "string" },
-                      "date": { "type": "string" },
-                      "type": { "type": "string" },
-                      "description": { "type": "string" }
-                    }
+                    "$ref": "#/components/schemas/Slava"
                   }
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid query parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
                 }
               }
             }
           }
         }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Slava": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "example": 1
+          },
+          "name": {
+            "type": "string",
+            "example": "Sveti Nikola"
+          },
+          "date": {
+            "type": "string",
+            "description": "ISO 8601 format (e.g. '0000-12-19')",
+            "example": "0000-12-19"
+          },
+          "type": {
+            "type": "string",
+            "description": "Fasting type",
+            "enum": ["posna", "mrsna"],
+            "example": "mrsna"
+          },
+          "description": {
+            "type": "string",
+            "example": "Jedna od najčešćih slava u Srbiji."
+          }
+        },
+        "required": ["id", "name", "date", "type", "description"]
+      },
+      "Error": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string",
+            "example": "Invalid query parameter: month must be 1–12"
+          }
+        },
+        "required": ["message"]
       }
     }
   }
