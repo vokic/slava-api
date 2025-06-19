@@ -6,7 +6,7 @@ export default function handler(req, res) {
   let results = [];
 
   if (date) {
-    // Filter by date(s), ignoring month if date provided
+    // Filter by date(s) ignoring month
     const datesToFilter = date.split(",").map((d) => d.trim());
     for (const mKey in slavasData) {
       const days = slavasData[mKey];
@@ -17,19 +17,17 @@ export default function handler(req, res) {
       results.push(...filtered);
     }
   } else if (month) {
-    // Filter by month key
+    // Filter by month only
     const days = slavasData[month];
     if (days && Array.isArray(days)) {
-      // Return all days with date in this month
       results = days.filter((day) => day.date);
     }
   } else {
-    // No filter, return all days with date
+    // No filter, return all
     for (const mKey in slavasData) {
       const days = slavasData[mKey];
       if (!Array.isArray(days)) continue;
-      const filtered = days.filter((day) => day.date);
-      results.push(...filtered);
+      results.push(...days.filter((day) => day.date));
     }
   }
 

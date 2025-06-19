@@ -2,20 +2,20 @@
   "openapi": "3.0.3",
   "info": {
     "title": "Serbian Slava API",
-    "version": "1.0.1",
-    "description": "API to fetch Serbian slavas with optional filters for month(s) and date(s)."
+    "version": "1.0.2",
+    "description": "API to fetch Serbian slavas (patron saint days) with optional filters by month or specific date(s) in MM-DD format."
   },
   "paths": {
     "/api/slavas": {
       "get": {
         "summary": "Get list of Serbian slavas",
-        "description": "Retrieve all slavas or filter by single month, multiple months, and/or specific dates.",
+        "description": "Retrieve all slavas or filter by single month or one/multiple specific dates in MM-DD format.",
         "tags": ["Slava API"],
         "parameters": [
           {
             "name": "month",
             "in": "query",
-            "description": "Single numeric month filter with leading zero (e.g. '01'). Returns slavas in this month.",
+            "description": "Single numeric month filter with leading zero (e.g., '01'). Returns slavas in this month.",
             "required": false,
             "schema": {
               "type": "string",
@@ -24,40 +24,26 @@
             "example": "01"
           },
           {
-            "name": "months",
-            "in": "query",
-            "description": "Comma-separated list of months with leading zeros (e.g. '01,02,12'). Returns slavas in these months.",
-            "required": false,
-            "schema": {
-              "type": "string",
-              "pattern": "^((0[1-9]|1[0-2])(,(0[1-9]|1[0-2]))*)$"
-            },
-            "example": "01,02,12"
-          },
-          {
             "name": "date",
             "in": "query",
-            "description": "Comma-separated list of dates in 'D.M.' format (e.g. '1.1.,7.1.'). Returns slavas on these dates.",
+            "description": "Comma-separated list of dates in 'MM-DD' format (e.g., '01-01,01-07'). Returns slavas on these dates.",
             "required": false,
             "schema": {
               "type": "string",
-              "pattern": "^((\\d{1,2}\\.\\d{1,2}\\.?)(,(\\d{1,2}\\.\\d{1,2}\\.?)*)?)$"
+              "pattern": "^((0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])(,(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01]))*)?$"
             },
-            "example": "1.1.,7.1."
+            "example": "01-01,01-07"
           }
         ],
         "responses": {
           "200": {
-            "description": "A JSON object where each key is a month number (with leading zero) mapping to an array of slava objects.",
+            "description": "A JSON array of slava objects.",
             "content": {
               "application/json": {
                 "schema": {
-                  "type": "object",
-                  "additionalProperties": {
-                    "type": "array",
-                    "items": {
-                      "$ref": "#/components/schemas/Slava"
-                    }
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Slava"
                   }
                 }
               }
@@ -84,17 +70,17 @@
         "properties": {
           "month": {
             "type": "string",
-            "description": "Month name in Serbian, if present",
+            "description": "Month name in Serbian",
             "example": "Januar"
           },
           "date": {
             "type": "string",
-            "description": "Date in D.M. format, e.g., '1.1.'",
-            "example": "1.1."
+            "description": "Date in MM-DD format, e.g., '01-01'",
+            "example": "01-01"
           },
           "julian_date": {
             "type": "string",
-            "description": "Julian calendar date",
+            "description": "Julian calendar date (still in original format)",
             "example": "19.12."
           },
           "events": {
@@ -117,7 +103,7 @@
         "properties": {
           "message": {
             "type": "string",
-            "example": "Invalid query parameter: month must be between 01 and 12"
+            "example": "Invalid query parameter: date format must be MM-DD"
           }
         },
         "required": ["message"]
