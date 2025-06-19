@@ -4,13 +4,69 @@
     "name": "Sveti Nikola",
     "date": "0000-12-19",
     "type": "mrsna",
-    "description": "Jedna od najčešćih slava u Srbiji."
+    "description": "Jedna od najčešćih slava u Srbiji. Zaštitnik putnika, mornara i siromašnih."
   },
   {
     "id": 2,
     "name": "Sveti Sava",
     "date": "0000-01-27",
     "type": "posna",
-    "description": "Prva srpska škola i prosvetitelj."
+    "description": "Prvi srpski arhiepiskop, prosvetitelj i osnivač Srpske pravoslavne crkve."
+  },
+  {
+    "id": 3,
+    "name": "Đurđevdan (Sveti Đorđe)",
+    "date": "0000-05-06",
+    "type": "mrsna",
+    "description": "Slava poznata po prolećnim običajima i zaštiti ratnika."
+  },
+  {
+    "id": 4,
+    "name": "Aranđelovdan (Sveti Arhanđel Mihailo)",
+    "date": "0000-11-21",
+    "type": "posna",
+    "description": "Jedna od najvećih slava; zaštitnik porodice i doma."
+  },
+  {
+    "id": 5,
+    "name": "Jovanjdan (Sveti Jovan Krstitelj)",
+    "date": "0000-01-20",
+    "type": "posna",
+    "description": "Zaštitnik kumstva, prijateljstva i rodbinskih veza."
+  },
+  {
+    "id": 6,
+    "name": "Petrovdan (Sveti Petar i Pavle)",
+    "date": "0000-07-12",
+    "type": "posna",
+    "description": "Apostoli Petar i Pavle, simbol jedinstva i vere."
+  },
+  {
+    "id": 7,
+    "name": "Ilindan (Sveti Ilija)",
+    "date": "0000-08-02",
+    "type": "mrsna",
+    "description": "Svetac gromovnik, poštovan kod mnogih zanatlija."
+  },
+  {
+    "id": 8,
+    "name": "Mitrovdan (Sveti Dimitrije)",
+    "date": "0000-11-08",
+    "type": "posna",
+    "description": "Slava ratnika i branitelja, posebno važna u srednjem veku."
+  },
+  {
+    "id": 9,
+    "name": "Vavedenje Presvete Bogorodice",
+    "date": "0000-12-04",
+    "type": "posna",
+    "description": "Praznik posvećen ulasku Bogorodice u hram; često porodična slava."
+  },
+  {
+    "id": 10,
+    "name": "Blagovesti",
+    "date": "0000-04-07",
+    "type": "mrsna",
+    "description": "Dan kada je arhangel Gavrilo objavio rođenje Isusa Hrista."
   }
 ]
