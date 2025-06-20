@@ -45,10 +45,10 @@ Get the full list of slavas or filter by query parameters.
 
 **Query Parameters:**
 
-| Parameter    | Type   | Description                                         | Example     |
-| ------------ | ------ | --------------------------------------------------- | ----------- |
-| month        | string | Single numeric month (with leading zero, e.g. "01") | 01          |
-| date(s)      | string | Comma-separated list of dates in `MM-DD` format     | 01-01,07-01 |
+| Parameter | Type   | Description                                         | Example     |
+| --------- | ------ | --------------------------------------------------- | ----------- |
+| month     | string | Single numeric month (with leading zero, e.g. "01") | 01          |
+| date      | string | Comma-separated list of dates in `MM-DD` format     | 01-01,07-01 |
 
 **Notes:**
 
@@ -68,4 +68,11 @@ curl "https://serbian-slavas-api.vercel.app/api/slavas?month=01"
 
 # Get slavas on specific dates (MM-DD format)
 curl "https://serbian-slavas-api.vercel.app/api/slavas?date=01-01,07-01"
+
+---
+
+## Data Source
+
+The original data used in this API is based on public information from:
+[https://sh.wikipedia.org/wiki/Lista_praznika_Srpske_pravoslavne_crkve](https://sh.wikipedia.org/wiki/Lista_praznika_Srpske_pravoslavne_crkve)
 ```
