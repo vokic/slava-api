@@ -938,7 +938,7 @@
     },
     {
       "date": "04-01",
-      "old_calendar": "19.3.",
+      "julian_date": "03-19",
       "saints": [
         "Sveti mučenici Hrisant, Darija i drugi",
         "Sveti mučenik Panharije",
@@ -947,7 +947,7 @@
     },
     {
       "date": "04-02",
-      "old_calendar": "20.3.",
+      "julian_date": "03-20",
       "saints": [
         "Prepodobni oci poubijani u manastiru Svetog Save Osvećenog",
         "Sveta mučenica Fotina"
@@ -955,7 +955,7 @@
     },
     {
       "date": "04-03",
-      "old_calendar": "21.3.",
+      "julian_date": "03-21",
       "saints": [
         "Prepodobni Jakov Ispovednik",
         "Prepodobni Kiril, episkop katanski, u Siciliji",
@@ -965,7 +965,7 @@
     },
     {
       "date": "04-04",
-      "old_calendar": "22.3.",
+      "julian_date": "03-22",
       "saints": [
         "Sveštenomučenik Vasilije Ankirski",
         "Sveta Drosida",
@@ -974,12 +974,12 @@
     },
     {
       "date": "04-05",
-      "old_calendar": "23.3.",
+      "julian_date": "03-23",
       "saints": ["Prepodobnomučenik Nikon i drugi", "Prepodobni Nikon Pečerski"]
     },
     {
       "date": "04-06",
-      "old_calendar": "24.3.",
+      "julian_date": "03-24",
       "saints": [
         "Prepodobni Zaharije (Pretprazništvo Blagovesti)",
         "Sveti Artemon, episkop selevkijski",
@@ -990,13 +990,13 @@
     },
     {
       "date": "04-07",
-      "old_calendar": "25.3.",
+      "julian_date": "03-25",
       "saints": ["Blagovesti", "Sveti mučenici Pelagija, Teodosija i Dula"],
       "note": "Blagovesti"
     },
     {
       "date": "04-08",
-      "old_calendar": "26.3.",
+      "julian_date": "03-26",
       "saints": [
         "Sabor svetog arhangela Gavrila",
         "Sveštenomučenik Irinej episkop sremski",
@@ -1006,7 +1006,7 @@
     },
     {
       "date": "04-09",
-      "old_calendar": "27.3.",
+      "julian_date": "03-27",
       "saints": [
         "Prepodobna Matrona Solunska",
         "Prepodobni Jovan Prozorljivi",
@@ -1015,7 +1015,7 @@
     },
     {
       "date": "04-10",
-      "old_calendar": "28.3.",
+      "julian_date": "03-28",
       "saints": [
         "Prepodobni Ilarion Ispovednik",
         "Prepodobni mučenik Evstratije Pečerski",
@@ -1026,7 +1026,7 @@
     },
     {
       "date": "04-11",
-      "old_calendar": "29.3.",
+      "julian_date": "03-29",
       "saints": [
         "Prepodobni Marko Aretuski",
         "Prepodobni Diadoh Fotijski",
@@ -1035,7 +1035,7 @@
     },
     {
       "date": "04-12",
-      "old_calendar": "30.3.",
+      "julian_date": "03-30",
       "saints": [
         "Sveti Jovan Lestvičnik",
         "Spomen na monaha, koji radosno umre"
@@ -1043,7 +1043,7 @@
     },
     {
       "date": "04-13",
-      "old_calendar": "31.3.",
+      "julian_date": "03-31",
       "saints": [
         "Sveštenomučenik Ipatije Gangrijski",
         "Sveti Jona, mitropolit moskovski",
@@ -1053,7 +1053,7 @@
     },
     {
       "date": "04-14",
-      "old_calendar": "1.4.",
+      "julian_date": "04-01",
       "saints": [
         "Prepodobna Marija Egipćanka",
         "Sveti Meliton episkop sardijski, u Maloj Aziji",
@@ -1062,7 +1062,7 @@
     },
     {
       "date": "04-15",
-      "old_calendar": "2.4.",
+      "julian_date": "04-02",
       "saints": [
         "Prepodobni Tit Čudotvorac",
         "Sveti mučenici Amfijan i Edesije"
@@ -1070,7 +1070,7 @@
     },
     {
       "date": "04-16",
-      "old_calendar": "3.4.",
+      "julian_date": "04-03",
       "saints": [
         "Prepodobni Nikita Ispovednik",
         "Sveti Pavle Nevoljnik",
@@ -1079,7 +1079,7 @@
     },
     {
       "date": "04-17",
-      "old_calendar": "4.4.",
+      "julian_date": "04-04",
       "saints": [
         "Prepodobni Josif Himnograf",
         "Sveta mučenica Fervuta i njena sestra udova i njihova robinja",
@@ -1089,7 +1089,7 @@
     },
     {
       "date": "04-18",
-      "old_calendar": "5.4.",
+      "julian_date": "04-05",
       "saints": [
         "Sveti mučenici Agatopod i Teodul",
         "Prepodobni Marko Tračeski"
@@ -1097,7 +1097,7 @@
     },
     {
       "date": "04-19",
-      "old_calendar": "6.4.",
+      "julian_date": "04-06",
       "saints": [
         "Sveti Evtihije Carigradski",
         "Svetih 120 mučenika postradalih u Persiji"
@@ -1105,7 +1105,7 @@
     },
     {
       "date": "04-20",
-      "old_calendar": "7.4.",
+      "julian_date": "04-07",
       "saints": [
         "Prepodobni Georgije Mitilenski",
         "Sveti Georgije ispovednik",
@@ -1117,7 +1117,7 @@
     },
     {
       "date": "04-21",
-      "old_calendar": "8.4.",
+      "julian_date": "04-08",
       "saints": [
         "Sveti apostoli Irodion, Agav, Ruf, Hermes i drugi",
         "Sveti Nifont, episkop Novgorodski",
@@ -1126,12 +1126,12 @@
     },
     {
       "date": "04-22",
-      "old_calendar": "9.4.",
+      "julian_date": "04-09",
       "saints": ["Sveti mučenik Evpsihije", "Prepodobni mučenik Vadim"]
     },
     {
       "date": "04-23",
-      "old_calendar": "10.4.",
+      "julian_date": "04-10",
       "saints": [
         "Sveti mučenik Terentije, Afrikan, Maksim, Pompije i ostalih 36 s njima",
         "Svetih 6000 mučenika u Gruziji"
@@ -1139,12 +1139,12 @@
     },
     {
       "date": "04-24",
-      "old_calendar": "11.4.",
+      "julian_date": "04-11",
       "saints": ["Sveštenomučenik Antipa", "Sveti mučenici Prokes i Martinijan"]
     },
     {
       "date": "04-25",
-      "old_calendar": "12.4.",
+      "julian_date": "04-12",
       "saints": [
         "Prepodobni Vasilije Ispovednik",
         "Prepodobni Isaak Sirin II",
@@ -1154,7 +1154,7 @@
     },
     {
       "date": "04-26",
-      "old_calendar": "13.4.",
+      "julian_date": "04-13",
       "saints": [
         "Sveštenomučenik Artemon Laodikijski",
         "Sveti mučenik Kriskent",
@@ -1163,7 +1163,7 @@
     },
     {
       "date": "04-27",
-      "old_calendar": "14.4.",
+      "julian_date": "04-14",
       "saints": [
         "Sveti Martin Ispovednik",
         "Sveti mučenici Antonije, Jovan i Evstatije",
@@ -1172,7 +1172,7 @@
     },
     {
       "date": "04-28",
-      "old_calendar": "15.4.",
+      "julian_date": "04-15",
       "saints": [
         "Sveti apostoli Aristarh, Pud i Trofim",
         "Sveti mučenik Sava Gotski",
@@ -1181,7 +1181,7 @@
     },
     {
       "date": "04-29",
-      "old_calendar": "16.4.",
+      "julian_date": "04-16",
       "saints": [
         "Svete mučenice Agapija, Hionija i Irina",
         "Sveti mučenici Leonid i s njim mučenici"
@@ -1189,7 +1189,7 @@
     },
     {
       "date": "04-30",
-      "old_calendar": "17.4.",
+      "julian_date": "04-17",
       "saints": [
         "Prepodobni Simeon Persijski",
         "Sveti Akakije, episkop melitinski",
@@ -1198,12 +1198,14 @@
       ]
     }
   ],
+
   "05": [
     {
-      "month": "Maj"
+      "month": "May"
     },
     {
       "date": "05-01",
+      "julian_date": "04-18",
       "saints": [
         "Prepodobni Jovan",
         "Sveti mučenik Jovan Novi Janjinski",
@@ -1212,6 +1214,7 @@
     },
     {
       "date": "05-02",
+      "julian_date": "04-19",
       "saints": [
         "Prepodobni Jovan Vethopešternik",
         "Sveti mučenici Hristofor, Teona i Antonin",
@@ -1222,10 +1225,11 @@
     },
     {
       "date": "05-03",
+      "julian_date": "04-20",
       "saints": [
         "Prepodobni Teodor Trihina",
-        "prepodobni Joasaf Srpski",
-        "sveti Nikolaj Žički",
+        "Prepodobni Joasaf Srpski",
+        "Sveti Nikolaj Žički",
         "Prepodobni Anastasije Sinajski",
         "Blaženi Anastasije Sinait, patrijarh antiohijski",
         "Blaženi Grigorije patrijarh antiohijski",
@@ -1235,6 +1239,7 @@
     },
     {
       "date": "05-04",
+      "julian_date": "04-21",
       "saints": [
         "Sveti sveštenomučenik Januarije",
         "Sveti mučenik Teodor, i drugi s njim"
@@ -1242,24 +1247,27 @@
     },
     {
       "date": "05-05",
+      "julian_date": "04-22",
       "saints": [
         "Prepodobni Teodor Sikeot",
-        "sveti sveštenomučenik Platon Banjalučki",
+        "Sveti sveštenomučenik Platon Banjalučki",
         "Sveti mučenik Leonid Aleksandrijski",
         "Prepodobni monah Vitalije"
       ]
     },
     {
       "date": "05-06",
+      "julian_date": "04-23",
       "saints": ["Sveti velikomučenik Georgije", "Sveti mučenik Lazar Novi"],
       "note": "Đurđevdan"
     },
     {
       "date": "05-07",
+      "julian_date": "04-24",
       "saints": [
         "Sveti mučenik Sava Stratilat",
         "Sveti Sava Erdeljski",
-        "sveti sveštenomučenik Branko",
+        "Sveti sveštenomučenik Branko",
         "Prepodobna Jelisaveta",
         "Sveti mučenici Evsevije, Neon, Leontije i Longin",
         "Sveti mučenici Pasikrat i Valentin",
@@ -1269,6 +1277,7 @@
     },
     {
       "date": "05-08",
+      "julian_date": "04-25",
       "saints": [
         "Sveti apostol i jevanđelist Marko",
         "Sveti Anian, drugi episkop aleksandrijski"
@@ -1277,6 +1286,7 @@
     },
     {
       "date": "05-09",
+      "julian_date": "04-26",
       "saints": [
         "Sveštenomučenik Vasilije Amasijski",
         "Sveti Janićije Devički",
@@ -1285,6 +1295,7 @@
     },
     {
       "date": "05-10",
+      "julian_date": "04-27",
       "saints": [
         "Spaljivanje moštiju Svetog Save na Vračaru",
         "Sveti apostol Simeon",
@@ -1294,6 +1305,7 @@
     },
     {
       "date": "05-11",
+      "julian_date": "04-28",
       "saints": [
         "Sveti apostoli Jason i Sosipatr",
         "Sveti mučenici Maksim, Dada i Kvintilijan",
@@ -1302,6 +1314,7 @@
     },
     {
       "date": "05-12",
+      "julian_date": "04-29",
       "saints": [
         "Sveti Vasilije Ostroški Čudotvorac",
         "Svetih devet mučenika u Kiziku",
@@ -1310,6 +1323,7 @@
     },
     {
       "date": "05-13",
+      "julian_date": "04-30",
       "saints": [
         "Sveti apostol Jakov Zevedejev",
         "Sveti Donat",
@@ -1318,6 +1332,7 @@
     },
     {
       "date": "05-14",
+      "julian_date": "05-01",
       "saints": [
         "Sveti prorok Jeremija",
         "Prepodobni mučenik Akakije Papučar",
@@ -1327,6 +1342,7 @@
     },
     {
       "date": "05-15",
+      "julian_date": "05-02",
       "saints": [
         "Sveti Atanasije Veliki",
         "Sveti Mihail Sinadski",
@@ -1338,6 +1354,7 @@
     },
     {
       "date": "05-16",
+      "julian_date": "05-03",
       "saints": [
         "Sveti mučenici Timotej i Mavra",
         "Prepodobni Teodosije Kijevo-Pečerski"
@@ -1345,6 +1362,7 @@
     },
     {
       "date": "05-17",
+      "julian_date": "05-04",
       "saints": [
         "Sveta mučenica Pelagija Tarsijska",
         "Sveštenomučenik Siluan, episkop gaski",
@@ -1353,10 +1371,12 @@
     },
     {
       "date": "05-18",
+      "julian_date": "05-05",
       "saints": ["Sveta velikomučenica Irina", "Sveti Martin i Iraklije"]
     },
     {
       "date": "05-19",
+      "julian_date": "05-06",
       "saints": [
         "Pravedni Jov",
         "Prenos moštiju svetog Save Srpskog",
@@ -1366,6 +1386,7 @@
     },
     {
       "date": "05-20",
+      "julian_date": "05-07",
       "saints": [
         "Pojava časnog Krsta u Jerusalimu",
         "Sveti mučenik Akakije",
@@ -1374,6 +1395,7 @@
     },
     {
       "date": "05-21",
+      "julian_date": "05-08",
       "saints": [
         "Sveti apostol i jevanđelist Jovan Bogoslov",
         "Prepodobni Arsenije Veliki",
@@ -1383,6 +1405,7 @@
     },
     {
       "date": "05-22",
+      "julian_date": "05-09",
       "saints": [
         "Prenos moštiju Svetog oca Nikolaja",
         "Sveti prorok Isaija",
@@ -1391,6 +1414,7 @@
     },
     {
       "date": "05-23",
+      "julian_date": "05-10",
       "saints": [
         "Sveti apostol Simon Zilot",
         "Prepodobna Isidora Jurodiva",
@@ -1400,23 +1424,26 @@
     },
     {
       "date": "05-24",
+      "julian_date": "05-11",
       "saints": [
         "Sveti Ćirilo i Metodije",
-        "sveti Nikodim Srpski",
+        "Sveti Nikodim Srpski",
         "Sveštenomučenik Mokije"
       ],
       "note": "Ćirilovdan"
     },
     {
       "date": "05-25",
+      "julian_date": "05-12",
       "saints": [
         "Sveti Epifanije",
-        "sveti German Carigradski",
+        "Sveti German Carigradski",
         "Sveti mučenik Pankratije"
       ]
     },
     {
       "date": "05-26",
+      "julian_date": "05-13",
       "saints": [
         "Sveta mučenica Glikerija",
         "Sveti mučenik Aleksandar",
@@ -1425,6 +1452,7 @@
     },
     {
       "date": "05-27",
+      "julian_date": "05-14",
       "saints": [
         "Sveti mučenik Isidor",
         "Sveti mučenik Maksim",
@@ -1434,18 +1462,20 @@
     },
     {
       "date": "05-28",
+      "julian_date": "05-15",
       "saints": [
         "Prepodobni Pahomije Veliki",
-        "sveti Ahilije",
+        "Sveti Ahilije",
         "Prepodobni Siluan"
       ]
     },
     {
       "date": "05-29",
+      "julian_date": "05-16",
       "saints": [
         "Prepodobni Teodor",
-        "sveštenomučenik Teodor Vršački",
-        "mučenik Vukašin",
+        "Sveštenomučenik Teodor Vršački",
+        "Mučenik Vukašin",
         "Blažena devica Muza",
         "Sveti Nikola Mistik, patrijarh carigradski",
         "Sveti novomučenik Nikolaj",
@@ -1454,6 +1484,7 @@
     },
     {
       "date": "05-30",
+      "julian_date": "05-17",
       "saints": [
         "Sveti apostol Andronik i Junija",
         "Sveti mučenik Solohon",
@@ -1462,6 +1493,7 @@
     },
     {
       "date": "05-31",
+      "julian_date": "05-18",
       "saints": [
         "Sveti mučenik Teodot Ankirski",
         "Sveti mučenici Petar, Dionisije, Andrej, Pavle i Hristina",
@@ -1471,10 +1503,11 @@
   ],
   "06": [
     {
-      "month": "Jun"
+      "month": "June"
     },
     {
       "date": "06-01",
+      "julian_date": "05-19",
       "saints": [
         "Sveti sveštenomučenik Patrikije",
         "Sveti Jovan episkop gotski",
@@ -1483,23 +1516,26 @@
     },
     {
       "date": "06-02",
+      "julian_date": "05-20",
       "saints": [
         "Sveti mučenik Talalej",
-        "prepodobni Stefan Piperski",
+        "Prepodobni Stefan Piperski",
         "Sveti mučenik Askalon"
       ]
     },
     {
       "date": "06-03",
+      "julian_date": "05-21",
       "saints": [
         "Sveti car Konstantin i carica Jelena",
-        "sveta Jelena Dečanska",
+        "Sveta Jelena Dečanska",
         "Prepodobni mučenik Pahomije",
         "Prepodobna Jelena Dečanska"
       ]
     },
     {
       "date": "06-04",
+      "julian_date": "05-22",
       "saints": [
         "Sveti mučenik Jovan Vladimir, kralj Srpski",
         "Sveti mučenik Vasilisk",
@@ -1509,6 +1545,7 @@
     },
     {
       "date": "06-05",
+      "julian_date": "05-23",
       "saints": [
         "Prepodobni Mihailo Ispovednik",
         "Sveti Mihail, episkop sinadski",
@@ -1517,6 +1554,7 @@
     },
     {
       "date": "06-06",
+      "julian_date": "05-24",
       "saints": [
         "Prepodobni Simeon Divnogorac",
         "Sveti mučenici Meletije stratilat i hiljadu dvesto osamnaest vojnika sa ženama i decom",
@@ -1525,6 +1563,7 @@
     },
     {
       "date": "06-07",
+      "julian_date": "05-25",
       "saints": [
         "Treće obretenje glave svetog Jovana Krstitelja",
         "Sveštenomučenik Terapont, episkop kiparski",
@@ -1533,6 +1572,7 @@
     },
     {
       "date": "06-08",
+      "julian_date": "05-26",
       "saints": [
         "Sveti apostoli Karp i Alfej",
         "Prepodobni Jovan Psihait",
@@ -1541,6 +1581,7 @@
     },
     {
       "date": "06-09",
+      "julian_date": "05-27",
       "saints": [
         "Sveti sveštenomučenik Terapont",
         "Sveti mučenici Teodora i Didim",
@@ -1549,6 +1590,7 @@
     },
     {
       "date": "06-10",
+      "julian_date": "05-28",
       "saints": [
         "Prepodobni Nikita Ispovednik",
         "Sveta mučenica Elikonida",
@@ -1557,6 +1599,7 @@
     },
     {
       "date": "06-11",
+      "julian_date": "05-29",
       "saints": [
         "Prepodobnomučenica Teodosija Tirska",
         "Spomen Prvog vaseljenskog sabora",
@@ -1570,18 +1613,21 @@
     },
     {
       "date": "06-12",
+      "julian_date": "05-30",
       "saints": ["Prepodobni Isakije Dalmatski", "Sveta Makrina"]
     },
     {
       "date": "06-13",
+      "julian_date": "05-31",
       "saints": [
         "Sveti apostol Jerma",
-        "sveti mučenik Ermije",
+        "Sveti mučenik Ermije",
         "Sveti mučenik Filosof"
       ]
     },
     {
       "date": "06-14",
+      "julian_date": "06-01",
       "saints": [
         "Sveti mučenik Justin Filozof",
         "Sveti mučenik Justin, Hariton, Harita, Evelpist, Jeraks, Peon, Valerijan i Just",
@@ -1591,15 +1637,17 @@
     },
     {
       "date": "06-15",
+      "julian_date": "06-02",
       "saints": [
         "Sveti Nićifor I Carigradski",
-        "sveštenomučenik Erazmo Ohridski",
+        "Sveštenomučenik Erazmo Ohridski",
         "Sveti novomučenik Konstantin",
         "Sveti mučenik Jovan Novi Sočavski"
       ]
     },
     {
       "date": "06-16",
+      "julian_date": "06-03",
       "saints": [
         "Sveti mučenici Lukilijan, Klavdije, Ipatije, Pavle, Dionisije i Paula i drugi s njim",
         "Sveštenomučenik Lukijan",
@@ -1608,10 +1656,11 @@
     },
     {
       "date": "06-17",
+      "julian_date": "06-04",
       "saints": [
         "Mironos. Marta i Marija",
-        "sveti Joanikije Crnogorski",
-        "svešmuč. Đorđe",
+        "Sveti Joanikije Crnogorski",
+        "Svešmuč. Đorđe",
         "Sveti Mitrofan, prvi patrijarh carigradski",
         "Sveti mučenik Konkordije",
         "Prepodobni Zosim, episkop Vavilona Novog",
@@ -1620,9 +1669,10 @@
     },
     {
       "date": "06-18",
+      "julian_date": "06-05",
       "saints": [
         "Sveštenomučenik Dorotej Tirski",
-        "prepodobni Petar Koriški",
+        "Prepodobni Petar Koriški",
         "Prepodobni Teodor pustinjak",
         "Prepodobni Anuvije",
         "Blaženi Igor, knez černigovski i kijevski",
@@ -1632,6 +1682,7 @@
     },
     {
       "date": "06-19",
+      "julian_date": "06-06",
       "saints": [
         "Prepodobni Visarion Čudotvorac i Ilarion Novi",
         "Prepodobni mučenici Arhelaja, Tekla i Suzana"
@@ -1639,6 +1690,7 @@
     },
     {
       "date": "06-20",
+      "julian_date": "06-07",
       "saints": [
         "Sveti sveštenomučenik Teodot Ankirski",
         "Svete mučenice Kiriakija, Velerija i Marija",
@@ -1648,6 +1700,7 @@
     },
     {
       "date": "06-21",
+      "julian_date": "06-08",
       "saints": [
         "Sveti velikomučenik Teodor Stratilat",
         "Sveti mučenik Teodot Ankirski",
@@ -1658,10 +1711,12 @@
     },
     {
       "date": "06-22",
+      "julian_date": "06-09",
       "saints": ["Sveti Kirilo Aleksandrijski", "Sveti Kiril Bjelozerski"]
     },
     {
       "date": "06-23",
+      "julian_date": "06-10",
       "saints": [
         "Sveti sveštenomučenik Timotej Bruski",
         "Sveti mučenik Aleksandar i Antonina",
@@ -1670,39 +1725,44 @@
     },
     {
       "date": "06-24",
+      "julian_date": "06-11",
       "saints": [
         "Sveti apostoli Vartolomej i Varnava",
-        "Praznovanje ikone \"Dostojno jest\""
+        "Praznovanje ikone 'Dostojno jest'"
       ]
     },
     {
       "date": "06-25",
+      "julian_date": "06-12",
       "saints": [
         "Prepodobni Onufrije Veliki",
-        "prepodobni Petar Atonski",
+        "Prepodobni Petar Atonski",
         "Prepodobni Timotej",
         "Prepodobni Vasijan i Jona"
       ]
     },
     {
       "date": "06-26",
+      "julian_date": "06-13",
       "saints": [
         "Sveta mučenica Akvilina",
-        "sveti Trifilije Nikozijski",
+        "Sveti Trifilije Nikozijski",
         "Sveti Ana Carigradska i sin joj Jovan Ispovednik"
       ]
     },
     {
       "date": "06-27",
+      "julian_date": "06-14",
       "saints": [
         "Sveti prorok Jelisej",
-        "sveti Metodije Carigradski",
+        "Sveti Metodije Carigradski",
         "Sveti Jovan, mitropolit evhaitski",
         "Prepodobni Nifont"
       ]
     },
     {
       "date": "06-28",
+      "julian_date": "06-15",
       "saints": [
         "Sveti Amos",
         "Sveti velikomučenik Knez Lazar i sveti srpski mučenici",
@@ -1715,6 +1775,7 @@
     },
     {
       "date": "06-29",
+      "julian_date": "06-16",
       "saints": [
         "Sveti Tihon Amatunski Čudotvorac",
         "Sveti mučenici Tigrije i Evtropije"
@@ -1722,6 +1783,7 @@
     },
     {
       "date": "06-30",
+      "julian_date": "06-17",
       "saints": [
         "Sveti mučenici Manuil, Savel i Ismail",
         "Prepodobni Pior, otšelnik nitrijski"
@@ -1734,7 +1796,7 @@
     },
     {
       "date": "07-01",
-      "old_calendar": "18.6.",
+      "julian_date": "06-18",
       "saints": [
         "Sveti mučenici Leontije, Ipatije i Teodul",
         "Prepodobni Leontije prozorljivi"
@@ -1742,7 +1804,7 @@
     },
     {
       "date": "07-02",
-      "old_calendar": "19.6.",
+      "julian_date": "06-19",
       "saints": [
         "Sveti apostol Juda",
         "Prepodobni Pajsije Veliki",
@@ -1752,7 +1814,7 @@
     },
     {
       "date": "07-03",
-      "old_calendar": "20.6.",
+      "julian_date": "06-20",
       "saints": [
         "Sveštenomučenik Metodije",
         "Prepodobni Naum Ohridski",
@@ -1764,7 +1826,7 @@
     },
     {
       "date": "07-04",
-      "old_calendar": "21.6.",
+      "julian_date": "06-21",
       "saints": [
         "Sveti mučenik Julijan Tarsijski",
         "Prepodobni Julije i Julijan",
@@ -1774,7 +1836,7 @@
     },
     {
       "date": "07-05",
-      "old_calendar": "22.6.",
+      "julian_date": "06-22",
       "saints": [
         "Sveštenomučenik Jevsevije Samosatski",
         "Prepodobna Anastasija Srpska",
@@ -1783,7 +1845,7 @@
     },
     {
       "date": "07-06",
-      "old_calendar": "23.6.",
+      "julian_date": "06-23",
       "saints": [
         "Sveta mučenica Agripina",
         "Vladimirska ikona Majke Božje",
@@ -1793,7 +1855,7 @@
     },
     {
       "date": "07-07",
-      "old_calendar": "24.6.",
+      "julian_date": "06-24",
       "saints": [
         "Rođenje svetog Jovana Preteče",
         "Sveti Nikita, episkop remesijanski",
@@ -1803,7 +1865,7 @@
     },
     {
       "date": "07-08",
-      "old_calendar": "25.6.",
+      "julian_date": "06-25",
       "saints": [
         "Sveta prepodobnomučenica Fevronija Nisibiska",
         "Prepodobni Dionisije"
@@ -1811,7 +1873,7 @@
     },
     {
       "date": "07-09",
-      "old_calendar": "26.6.",
+      "julian_date": "06-26",
       "saints": [
         "Prepodobni David Solunski",
         "Praznik ikone Tihfinske",
@@ -1821,7 +1883,7 @@
     },
     {
       "date": "07-10",
-      "old_calendar": "27.6.",
+      "julian_date": "06-27",
       "saints": [
         "Prepodobni Sampson Stranoprimac",
         "Sveti Sevir",
@@ -1830,7 +1892,7 @@
     },
     {
       "date": "07-11",
-      "old_calendar": "28.6.",
+      "julian_date": "06-28",
       "saints": [
         "Prenos moštiju svetih besrebrenika Kira i Jovana",
         "Sveti novomučenici Dabrobosanski i Mileševski",
@@ -1840,13 +1902,13 @@
     },
     {
       "date": "07-12",
-      "old_calendar": "29.6.",
+      "julian_date": "06-29",
       "saints": ["Sveti apostoli Petar i Pavle"],
       "note": "Petrovdan"
     },
     {
       "date": "07-13",
-      "old_calendar": "30.6.",
+      "julian_date": "06-30",
       "saints": [
         "Sabor svetih dvanaest apostola",
         "Blaženi Petar carević",
@@ -1856,7 +1918,7 @@
     },
     {
       "date": "07-14",
-      "old_calendar": "1.7.",
+      "julian_date": "07-01",
       "saints": [
         "Sveti mučenici i besrebrenici Kozma i Damjan",
         "Prepodobni Petar patricije",
@@ -1865,7 +1927,7 @@
     },
     {
       "date": "07-15",
-      "old_calendar": "2.7.",
+      "julian_date": "07-02",
       "saints": [
         "Polaganje rize Presvete Bogorodice",
         "Sveti Juvenalije patrijarh Jerusalimski",
@@ -1874,7 +1936,7 @@
     },
     {
       "date": "07-16",
-      "old_calendar": "3.7.",
+      "julian_date": "07-03",
       "saints": [
         "Sveti mučenik Jakint",
         "Prepodobni Anatolije",
@@ -1885,7 +1947,7 @@
     },
     {
       "date": "07-17",
-      "old_calendar": "4.7.",
+      "julian_date": "07-04",
       "saints": [
         "Sveti Andrej Kritski",
         "Sveti sveštenomučenik Sava Gornjokarlovački",
@@ -1894,7 +1956,7 @@
     },
     {
       "date": "07-18",
-      "old_calendar": "5.7.",
+      "julian_date": "07-05",
       "saints": [
         "Prepodobni Atanasije Atonski",
         "Sveti Sergije Radonješki",
@@ -1904,7 +1966,7 @@
     },
     {
       "date": "07-19",
-      "old_calendar": "6.7.",
+      "julian_date": "07-06",
       "saints": [
         "Prepodobni Sisoje Veliki",
         "Sveti mučenici Marin i Marta, sa sinovima Avdifaksom i Avakumom, sveštenikom Valentinom, Kirinom, Asterijem i mnogim drugim",
@@ -1914,7 +1976,7 @@
     },
     {
       "date": "07-20",
-      "old_calendar": "7.7.",
+      "julian_date": "07-07",
       "saints": [
         "Prepodobni Toma Malein",
         "Sveta mučenica Nedelja",
@@ -1923,7 +1985,7 @@
     },
     {
       "date": "07-21",
-      "old_calendar": "8.7.",
+      "julian_date": "07-08",
       "saints": [
         "Sveti velikomučenik Prokopije",
         "Sveti Prokopije Jurodivi",
@@ -1932,7 +1994,7 @@
     },
     {
       "date": "07-22",
-      "old_calendar": "9.7.",
+      "julian_date": "07-09",
       "saints": [
         "Sveštenomučenik Pankratije",
         "Sveti Teodor",
@@ -1943,7 +2005,7 @@
     },
     {
       "date": "07-23",
-      "old_calendar": "10.7.",
+      "julian_date": "07-10",
       "saints": [
         "Svetih 45 mučenika iz Nikopolja",
         "Prepodobni Antonije Pečerski",
@@ -1952,7 +2014,7 @@
     },
     {
       "date": "07-24",
-      "old_calendar": "11.7.",
+      "julian_date": "07-11",
       "saints": [
         "Sveta velikomučenica Efimija",
         "Blažena Olga Kijevska - Sveta Jelena",
@@ -1962,7 +2024,7 @@
     },
     {
       "date": "07-25",
-      "old_calendar": "12.7.",
+      "julian_date": "07-12",
       "saints": [
         "Sveti mučenici Proklo i Ilarije",
         "Ikona Presvete Bogorodice Trojeručice",
@@ -1974,7 +2036,7 @@
     },
     {
       "date": "07-26",
-      "old_calendar": "13.7.",
+      "julian_date": "07-13",
       "saints": [
         "Sabor svetog arhangela Gavrila",
         "Sveti Julijan episkop Kenomanski",
@@ -1984,7 +2046,7 @@
     },
     {
       "date": "07-27",
-      "old_calendar": "14.7.",
+      "julian_date": "07-14",
       "saints": [
         "Sveti apostol Akila",
         "Prepodobni Nikodim farisej",
@@ -1993,12 +2055,12 @@
     },
     {
       "date": "07-28",
-      "old_calendar": "15.7.",
+      "julian_date": "07-15",
       "saints": ["Sveti mučenici Kirik i Julita", "Sveti Vladimir Ruski"]
     },
     {
       "date": "07-29",
-      "old_calendar": "16.7.",
+      "julian_date": "07-16",
       "saints": [
         "Sveštenomučenik Antinogen",
         "Sveta mučenica Julija",
@@ -2009,7 +2071,7 @@
     },
     {
       "date": "07-30",
-      "old_calendar": "17.7.",
+      "julian_date": "07-17",
       "saints": [
         "Sveta velikomučenica Marina",
         "Prepodobni Leonid Ustnedumski"
@@ -2018,7 +2080,7 @@
     },
     {
       "date": "07-31",
-      "old_calendar": "18.7.",
+      "julian_date": "07-18",
       "saints": [
         "Sveti mučenik Emilijan",
         "Sveti mučenik Jakint",
@@ -2034,7 +2096,7 @@
     },
     {
       "date": "08-01",
-      "old_calendar": "19.7.",
+      "julian_date": "07-19",
       "saints": [
         "Sveti Stefan despot Srpski",
         "Prepodobna Evgenija (Lazarević)",
@@ -2044,7 +2106,7 @@
     },
     {
       "date": "08-02",
-      "old_calendar": "20.7.",
+      "julian_date": "07-20",
       "saints": [
         "Sveti prorok Ilija",
         "Sveti Ilija Gruzijski",
@@ -2055,12 +2117,12 @@
     },
     {
       "date": "08-03",
-      "old_calendar": "21.7.",
+      "julian_date": "07-21",
       "saints": ["Sveti prorok Jezekilj", "Prepodobni Simeon i Jovan"]
     },
     {
       "date": "08-04",
-      "old_calendar": "22.7.",
+      "julian_date": "07-22",
       "saints": [
         "Sveta Marija Magdalina",
         "Sveštenomučenik Foka",
@@ -2071,7 +2133,7 @@
     },
     {
       "date": "08-05",
-      "old_calendar": "23.7.",
+      "julian_date": "07-23",
       "saints": [
         "Sveti mučenici Trofim, Teofil i drugi",
         "Sveštenomučenik Apolinarije",
@@ -2080,7 +2142,7 @@
     },
     {
       "date": "08-06",
-      "old_calendar": "24.7.",
+      "julian_date": "07-24",
       "saints": [
         "Sveta velikomučenica Hristina",
         "Prepodobni Polikarp Pečerski",
@@ -2089,7 +2151,7 @@
     },
     {
       "date": "08-07",
-      "old_calendar": "25.7.",
+      "julian_date": "07-25",
       "saints": [
         "Uspenije svete Ane",
         "Sveta Olimpijada đakonisa",
@@ -2099,7 +2161,7 @@
     },
     {
       "date": "08-08",
-      "old_calendar": "26.7.",
+      "julian_date": "07-26",
       "saints": [
         "Prepodobnomučenica Paraskeva",
         "Sveti Sava III Srpski",
@@ -2110,7 +2172,7 @@
     },
     {
       "date": "08-09",
-      "old_calendar": "27.7.",
+      "julian_date": "07-27",
       "saints": [
         "Sveti velikomučenik Pantelejmon",
         "Sveti Kliment Ohridski",
@@ -2121,7 +2183,7 @@
     },
     {
       "date": "08-10",
-      "old_calendar": "28.7.",
+      "julian_date": "07-28",
       "saints": [
         "Sveti apostoli i đakoni Prohor, Nikanor, Timon i Parmen",
         "Sveti mučenik Julijan",
@@ -2131,7 +2193,7 @@
     },
     {
       "date": "08-11",
-      "old_calendar": "29.7.",
+      "julian_date": "07-29",
       "saints": [
         "Sveti mučenik Kalinik",
         "Mučenica Serafima",
@@ -2141,7 +2203,7 @@
     },
     {
       "date": "08-12",
-      "old_calendar": "30.7.",
+      "julian_date": "07-30",
       "saints": [
         "Prepodobna mati Angelina Srpska",
         "Sveti apostoli Sila, Siluan, Kriskent, Epenet i Andronik",
@@ -2152,7 +2214,7 @@
     },
     {
       "date": "08-13",
-      "old_calendar": "31.7.",
+      "julian_date": "07-31",
       "saints": [
         "Sveti mučenik Evdokim",
         "Sveta mučenica Julita",
@@ -2163,13 +2225,13 @@
     },
     {
       "date": "08-14",
-      "old_calendar": "1.8.",
+      "julian_date": "08-01",
       "saints": ["Iznošenje Časnog krsta", "Makaveji", "Svetih devet mučenika"],
       "note": "Početak posta"
     },
     {
       "date": "08-15",
-      "old_calendar": "2.8.",
+      "julian_date": "08-02",
       "saints": [
         "Prenos moštiju svetog prvomučenika i arhiđakona Stefana",
         "Sveštenomučenik Stefan papa Rimski i drugi s njim",
@@ -2179,7 +2241,7 @@
     },
     {
       "date": "08-16",
-      "old_calendar": "3.8.",
+      "julian_date": "08-03",
       "saints": [
         "Prepodobni Isakija, Dalmat i Favst",
         "Prepodobni Kozma škopac",
@@ -2189,7 +2251,7 @@
     },
     {
       "date": "08-17",
-      "old_calendar": "4.8.",
+      "julian_date": "08-04",
       "saints": [
         "Svetih sedam mučenika u Efesu",
         "Sveštenomučenik Kozma ravnoapostolni"
@@ -2197,7 +2259,7 @@
     },
     {
       "date": "08-18",
-      "old_calendar": "5.8.",
+      "julian_date": "08-05",
       "saints": [
         "Sveštenomučenik Evsignije",
         "Sveštenomučenik Favije (Favijan) papa Rimski",
@@ -2208,12 +2270,12 @@
     },
     {
       "date": "08-19",
-      "old_calendar": "6.8.",
+      "julian_date": "08-06",
       "saints": ["Preobraženje Gospodnje"]
     },
     {
       "date": "08-20",
-      "old_calendar": "7.8.",
+      "julian_date": "08-07",
       "saints": [
         "Prepodobnomučenik Dometije",
         "Prepodobni Or",
@@ -2224,7 +2286,7 @@
     },
     {
       "date": "08-21",
-      "old_calendar": "8.8.",
+      "julian_date": "08-08",
       "saints": [
         "Sveti Emilijan Ispovednik",
         "Prepodobni Zosim Tumanski",
@@ -2236,7 +2298,7 @@
     },
     {
       "date": "08-22",
-      "old_calendar": "9.8.",
+      "julian_date": "08-09",
       "saints": [
         "Sveti apostol Matija",
         "Sveti mučenik Antonije",
@@ -2245,12 +2307,12 @@
     },
     {
       "date": "08-23",
-      "old_calendar": "10.8.",
+      "julian_date": "08-10",
       "saints": ["Sveti mučenik i arhiđakon Lavrentije", "Sveti Iron"]
     },
     {
       "date": "08-24",
-      "old_calendar": "11.8.",
+      "julian_date": "08-11",
       "saints": [
         "Sveti mučenik i arhiđakon Evplo",
         "Sveta mučenica Suzana devica i drugi s njom",
@@ -2260,7 +2322,7 @@
     },
     {
       "date": "08-25",
-      "old_calendar": "12.8.",
+      "julian_date": "08-12",
       "saints": [
         "Sveti mučenici Fotije, Anikita i drugi s njima",
         "Sveštenomučenik Aleksandar episkop Komanski"
@@ -2268,7 +2330,7 @@
     },
     {
       "date": "08-26",
-      "old_calendar": "13.8.",
+      "julian_date": "08-13",
       "saints": [
         "Sveti mučenik Ipolit Rimski",
         "Sveti Tihon Zadonski",
@@ -2279,7 +2341,7 @@
     },
     {
       "date": "08-27",
-      "old_calendar": "14.8.",
+      "julian_date": "08-14",
       "saints": [
         "Sveti prorok Mihej",
         "Sveštenomučenik Markel episkop Apamejski"
@@ -2288,13 +2350,13 @@
     },
     {
       "date": "08-28",
-      "old_calendar": "15.8.",
+      "julian_date": "08-15",
       "saints": ["Uspenije Presvete Bogorodice"],
       "note": "Velika Gospojina"
     },
     {
       "date": "08-29",
-      "old_calendar": "16.8.",
+      "julian_date": "08-16",
       "saints": [
         "Sveti Jevstatije II, Arhiepiskop Srpski",
         "Prepodobni Roman",
@@ -2307,7 +2369,7 @@
     },
     {
       "date": "08-30",
-      "old_calendar": "17.8.",
+      "julian_date": "08-17",
       "saints": [
         "Sveti mučenici Miron i Patroklo",
         "Prepodobni Ilija Kalabrijski",
@@ -2316,7 +2378,7 @@
     },
     {
       "date": "08-31",
-      "old_calendar": "18.8.",
+      "julian_date": "08-18",
       "saints": [
         "Sveti mučenici Flor i Lavr",
         "Prepodobni Jovan Rilski",
@@ -2330,7 +2392,7 @@
     },
     {
       "date": "09-01",
-      "old_calendar": "19.8.",
+      "julian_date": "08-19",
       "saints": [
         "Sveti mučenik Andrej Stratilat",
         "Prepodobni Teofan",
@@ -2339,7 +2401,7 @@
     },
     {
       "date": "09-02",
-      "old_calendar": "20.8.",
+      "julian_date": "08-20",
       "saints": [
         "Sveti prorok Samuilo",
         "Sveštenomučenik Filip Iraklijski",
@@ -2349,7 +2411,7 @@
     },
     {
       "date": "09-03",
-      "old_calendar": "21.8.",
+      "julian_date": "08-21",
       "saints": [
         "Sveti apostol Tadej",
         "Sveta mučenica Vasa i njena deca Teognije, Agapije i Pist",
@@ -2360,7 +2422,7 @@
     },
     {
       "date": "09-04",
-      "old_calendar": "22.8.",
+      "julian_date": "08-22",
       "saints": [
         "Sveti mučenik Agatonik",
         "Sveštenomučenik Gorazd Češki",
@@ -2370,7 +2432,7 @@
     },
     {
       "date": "09-05",
-      "old_calendar": "23.8.",
+      "julian_date": "08-23",
       "saints": [
         "Sveštenomučenik Irinej Lionski",
         "Mučenik Lup",
@@ -2382,7 +2444,7 @@
     },
     {
       "date": "09-06",
-      "old_calendar": "24.8.",
+      "julian_date": "08-24",
       "saints": [
         "Sveti sveštenomučenik Evtihije",
         "Sveta mučenica Sira",
@@ -2393,7 +2455,7 @@
     },
     {
       "date": "09-07",
-      "old_calendar": "25.8.",
+      "julian_date": "08-25",
       "saints": [
         "Prenos moštiju svetih apostola Vartolomeja",
         "Sveti apostol Tit",
@@ -2403,7 +2465,7 @@
     },
     {
       "date": "09-08",
-      "old_calendar": "26.8.",
+      "julian_date": "08-26",
       "saints": [
         "Sveti mučenici Adrijan i Natalija",
         "Prepodobni Titoj",
@@ -2413,7 +2475,7 @@
     },
     {
       "date": "09-09",
-      "old_calendar": "27.8.",
+      "julian_date": "08-27",
       "saints": [
         "Prepodobni Pimen Veliki",
         "Prepodobni Pimen Palestinski",
@@ -2423,7 +2485,7 @@
     },
     {
       "date": "09-10",
-      "old_calendar": "28.8.",
+      "julian_date": "08-28",
       "saints": [
         "Prepodobni Mojsije Murin",
         "Prepodobni Sava Pskovski",
@@ -2432,7 +2494,7 @@
     },
     {
       "date": "09-11",
-      "old_calendar": "29.8.",
+      "julian_date": "08-29",
       "saints": [
         "Usekovanje glave Svetog Jovana Krstitelja",
         "Prepodobna Teodora Solunska",
@@ -2443,7 +2505,7 @@
     },
     {
       "date": "09-12",
-      "old_calendar": "30.8.",
+      "julian_date": "08-30",
       "saints": [
         "Prenos moštiju svetog Aleksandra Nevskog",
         "Sabor svetih srpskih prosvetitelja i učitelja",
@@ -2454,7 +2516,7 @@
     },
     {
       "date": "09-13",
-      "old_calendar": "31.8.",
+      "julian_date": "08-31",
       "saints": [
         "Polaganje pojasa Presvete Bogorodice",
         "Sveti Genadije, patrijarh Carigradski",
@@ -2465,18 +2527,18 @@
     },
     {
       "date": "09-14",
-      "old_calendar": "1.9.",
+      "julian_date": "09-01",
       "saints": ["Prepodobni Simeon Stolpnik", "Sveti Isus Navin"],
       "note": "Crkvena Nova godina"
     },
     {
       "date": "09-15",
-      "old_calendar": "2.9.",
+      "julian_date": "09-02",
       "saints": ["Sveti mučenik Mamant", "Sveti Jovan Posnik", "Sveti Eleazar"]
     },
     {
       "date": "09-16",
-      "old_calendar": "3.9.",
+      "julian_date": "09-03",
       "saints": [
         "Sveštenomučenik Antim",
         "Sveti Joanikije, prvi Patrijarh srpski",
@@ -2486,7 +2548,7 @@
     },
     {
       "date": "09-17",
-      "old_calendar": "4.9.",
+      "julian_date": "09-04",
       "saints": [
         "Sveštenomučenik Vavila",
         "Prorok Mojsej Bogovidac",
@@ -2496,7 +2558,7 @@
     },
     {
       "date": "09-18",
-      "old_calendar": "5.9.",
+      "julian_date": "09-05",
       "saints": [
         "Sveti prorok Zaharije",
         "Pravedna Jelisaveta",
@@ -2507,7 +2569,7 @@
     },
     {
       "date": "09-19",
-      "old_calendar": "6.9.",
+      "julian_date": "09-06",
       "saints": [
         "Čudo svetog arhangela Mihaila",
         "Sveti mučenik Evdoksije",
@@ -2517,7 +2579,7 @@
     },
     {
       "date": "09-20",
-      "old_calendar": "7.9.",
+      "julian_date": "09-07",
       "saints": [
         "Sveti mučenik Sozont",
         "Sveti apostoli Evod i Onisifor",
@@ -2528,7 +2590,7 @@
     },
     {
       "date": "09-21",
-      "old_calendar": "8.9.",
+      "julian_date": "09-08",
       "saints": [
         "Rođenje Presvete Bogorodice",
         "Praznik svete Bogorodice Kališke",
@@ -2538,7 +2600,7 @@
     },
     {
       "date": "09-22",
-      "old_calendar": "9.9.",
+      "julian_date": "09-09",
       "saints": [
         "Sveti pravedni Joakim i Ana",
         "Spomen Trećeg Vaseljenskog Sabora",
@@ -2549,7 +2611,7 @@
     },
     {
       "date": "09-23",
-      "old_calendar": "10.9.",
+      "julian_date": "09-10",
       "saints": [
         "Mučenice Minodora, Mitrodora i Nimfodora",
         "Sveta Pulherija carica",
@@ -2559,7 +2621,7 @@
     },
     {
       "date": "09-24",
-      "old_calendar": "11.9.",
+      "julian_date": "09-11",
       "saints": [
         "Prepodobna Teodora",
         "Prepodobni Sergije i German",
@@ -2572,7 +2634,7 @@
     },
     {
       "date": "09-25",
-      "old_calendar": "12.9.",
+      "julian_date": "09-12",
       "saints": [
         "Sveštenomučenik Avtomon",
         "Sveštenomučenik Kornut, episkop Ikonijski",
@@ -2584,7 +2646,7 @@
     },
     {
       "date": "09-26",
-      "old_calendar": "13.9.",
+      "julian_date": "09-13",
       "saints": [
         "Sveštenomučenik Kornilije",
         "Osvećenje hrama Hristova Vaskrsenja",
@@ -2596,7 +2658,7 @@
     },
     {
       "date": "09-27",
-      "old_calendar": "14.9.",
+      "julian_date": "09-14",
       "saints": [
         "Vozdviženje časnog Krsta",
         "Sveta Plakila carica",
@@ -2607,7 +2669,7 @@
     },
     {
       "date": "09-28",
-      "old_calendar": "15.9.",
+      "julian_date": "09-15",
       "saints": [
         "Sveti velikomučenik Nikita Gotski",
         "Sveti Josif Temišvarski",
@@ -2621,7 +2683,7 @@
     },
     {
       "date": "09-29",
-      "old_calendar": "16.9.",
+      "julian_date": "09-16",
       "saints": [
         "Prepodobni Dorotej",
         "Sveti Kiprijan",
@@ -2632,7 +2694,7 @@
     },
     {
       "date": "09-30",
-      "old_calendar": "17.9.",
+      "julian_date": "09-17",
       "saints": [
         "Svete mučenice Vera, Nada i Ljubav i majka im Sofija",
         "Sveta mučenica Agatoklija",
@@ -2647,7 +2709,7 @@
     },
     {
       "date": "10-01",
-      "old_calendar": "18.9.",
+      "julian_date": "09-18",
       "saints": [
         "Sveti Evmenije Gortinski",
         "sveta mučenica Ariadna",
@@ -2656,7 +2718,7 @@
     },
     {
       "date": "10-02",
-      "old_calendar": "19.9.",
+      "julian_date": "09-19",
       "saints": [
         "Sveti mučenici Trofim, Savatije i Dorimedont",
         "Sveti mučenik Zosim pustinjak",
@@ -2665,7 +2727,7 @@
     },
     {
       "date": "10-03",
-      "old_calendar": "20.9.",
+      "julian_date": "09-20",
       "saints": [
         "Sveti velikomučenik Jevstatije",
         "Sveti Mihail knez i Teodor boljarin",
@@ -2674,7 +2736,7 @@
     },
     {
       "date": "10-04",
-      "old_calendar": "21.9.",
+      "julian_date": "09-21",
       "saints": [
         "Sveti apostol Kodrat (Odanije Vozdviženja)",
         "Sveštenomučenik Ipatije episkop Efeski i Andrej prezviter",
@@ -2684,7 +2746,7 @@
     },
     {
       "date": "10-05",
-      "old_calendar": "22.9.",
+      "julian_date": "09-22",
       "saints": [
         "Sveti sveštenomučenik Foka",
         "sveti prorok Jona",
@@ -2696,7 +2758,7 @@
     },
     {
       "date": "10-06",
-      "old_calendar": "23.9.",
+      "julian_date": "09-23",
       "saints": [
         "Začeće svetog Jovana Preteče i Krstitelja",
         "Sveti mučenik Iraida",
@@ -2706,7 +2768,7 @@
     },
     {
       "date": "10-07",
-      "old_calendar": "24.9.",
+      "julian_date": "09-24",
       "saints": [
         "Sveta Tekla",
         "prepodobni Simon",
@@ -2716,7 +2778,7 @@
     },
     {
       "date": "10-08",
-      "old_calendar": "25.9.",
+      "julian_date": "09-25",
       "saints": [
         "Prepodobna Efrosinija",
         "sveti Sergej Radonješki",
@@ -2725,7 +2787,7 @@
     },
     {
       "date": "10-09",
-      "old_calendar": "26.9.",
+      "julian_date": "09-26",
       "saints": [
         "Sveti apostol i jevanđelist Jovan Bogoslov",
         "Prepodobni Nil Kalabrijski"
@@ -2733,7 +2795,7 @@
     },
     {
       "date": "10-10",
-      "old_calendar": "27.9.",
+      "julian_date": "09-27",
       "saints": [
         "Sveti mučenik Kalistrat",
         "Sveti apostoli: Marko, Aristarh i Zinon",
@@ -2743,7 +2805,7 @@
     },
     {
       "date": "10-11",
-      "old_calendar": "28.9.",
+      "julian_date": "09-28",
       "saints": [
         "Prepodobni Hariton Ispovednik",
         "Sveti prorok Varuh",
@@ -2753,7 +2815,7 @@
     },
     {
       "date": "10-12",
-      "old_calendar": "29.9.",
+      "julian_date": "09-29",
       "saints": [
         "Prepodobni Kirijak Otšelnik",
         "Sveti mučenici Dada i Govdelaj",
@@ -2764,7 +2826,7 @@
     },
     {
       "date": "10-13",
-      "old_calendar": "30.9.",
+      "julian_date": "09-30",
       "saints": [
         "Sveti sveštenomučenik Grigorije",
         "sveti Mihail Kijevski",
@@ -2773,7 +2835,7 @@
     },
     {
       "date": "10-14",
-      "old_calendar": "1.10.",
+      "julian_date": "10-01",
       "saints": [
         "Pokrov Presvete Bogorodice",
         "Sveti apostol Ananija",
@@ -2784,7 +2846,7 @@
     },
     {
       "date": "10-15",
-      "old_calendar": "2.10.",
+      "julian_date": "10-02",
       "saints": [
         "Sveti sveštenomučenik Kiprijan",
         "prepodobni Andrej",
@@ -2793,7 +2855,7 @@
     },
     {
       "date": "10-16",
-      "old_calendar": "3.10.",
+      "julian_date": "10-03",
       "saints": [
         "Sveti sveštenomučenik Dionisije Areopagit",
         "Prepodobni Jovan Hozevit",
@@ -2803,7 +2865,7 @@
     },
     {
       "date": "10-17",
-      "old_calendar": "4.10.",
+      "julian_date": "10-04",
       "saints": [
         "Sveti Stefan i prepodobna Jelena-Jelisaveta (Štiljanović)",
         "Sveštenomučenik Jerotej",
@@ -2813,7 +2875,7 @@
     },
     {
       "date": "10-18",
-      "old_calendar": "5.10.",
+      "julian_date": "10-05",
       "saints": [
         "Sveta mučenica Haritina",
         "sveštenomučenik Dionisije Aleksandrijski",
@@ -2823,19 +2885,19 @@
     },
     {
       "date": "10-19",
-      "old_calendar": "6.10.",
+      "julian_date": "10-06",
       "saints": ["Sveti apostol Toma", "Prepodobni novomučenik Makarije"],
       "note": "Tomindan"
     },
     {
       "date": "10-20",
-      "old_calendar": "7.10.",
+      "julian_date": "10-07",
       "saints": ["Sveti mučenici Sergije i Vakho", "Sveti mučenik Polihronije"],
       "note": "Srđevdan"
     },
     {
       "date": "10-21",
-      "old_calendar": "8.10.",
+      "julian_date": "10-08",
       "saints": [
         "Prepodobna Pelagija",
         "prepodobna Taisa",
@@ -2845,7 +2907,7 @@
     },
     {
       "date": "10-22",
-      "old_calendar": "9.10.",
+      "julian_date": "10-09",
       "saints": [
         "Sveti apostol Jakov",
         "sveti Stefan Srpski (Slepi)",
@@ -2856,7 +2918,7 @@
     },
     {
       "date": "10-23",
-      "old_calendar": "10.10.",
+      "julian_date": "10-10",
       "saints": [
         "Sveti mučenici Evlampije i Evlampija",
         "Sveti mučenici Zografski",
@@ -2867,7 +2929,7 @@
     },
     {
       "date": "10-24",
-      "old_calendar": "11.10.",
+      "julian_date": "10-11",
       "saints": [
         "Sveti apostol Filip",
         "sveti Teofan Načertani",
@@ -2879,7 +2941,7 @@
     },
     {
       "date": "10-25",
-      "old_calendar": "12.10.",
+      "julian_date": "10-12",
       "saints": [
         "Sveti mučenici Tarah, Prov i Andronik",
         "Sveti Martin, episkop Turski",
@@ -2888,7 +2950,7 @@
     },
     {
       "date": "10-26",
-      "old_calendar": "13.10.",
+      "julian_date": "10-13",
       "saints": [
         "Sveti mučenik Karp",
         "sveta novomučenica Zlata Meglenska",
@@ -2897,7 +2959,7 @@
     },
     {
       "date": "10-27",
-      "old_calendar": "14.10.",
+      "julian_date": "10-14",
       "saints": [
         "Prepodobna mati Paraskeva",
         "Sveti mučenici Nazarije, Gervasije i Protasije"
@@ -2906,12 +2968,12 @@
     },
     {
       "date": "10-28",
-      "old_calendar": "15.10.",
+      "julian_date": "10-15",
       "saints": ["Sveštenomučenik Lukijan", "prepodobni Jevtimije"]
     },
     {
       "date": "10-29",
-      "old_calendar": "16.10.",
+      "julian_date": "10-16",
       "saints": [
         "Sveti mučenik Longin Sotnik",
         "Prepodobni Longin Trudoljubivi"
@@ -2919,7 +2981,7 @@
     },
     {
       "date": "10-30",
-      "old_calendar": "17.10.",
+      "julian_date": "10-17",
       "saints": [
         "Sveti prorok Osija",
         "prepodobnomučenik Andrej Kritski",
@@ -2930,7 +2992,7 @@
     },
     {
       "date": "10-31",
-      "old_calendar": "18.10.",
+      "julian_date": "10-18",
       "saints": [
         "Sveti apostol i jevanđelist Luka",
         "sveti Petar Cetinjski",
@@ -2945,7 +3007,7 @@
     },
     {
       "date": "11-01",
-      "old_calendar": "19.10.",
+      "julian_date": "10-19",
       "saints": [
         "Sveti prorok Joil",
         "Sveti mučenik Var",
@@ -2956,7 +3018,7 @@
     },
     {
       "date": "11-02",
-      "old_calendar": "20.10.",
+      "julian_date": "10-20",
       "saints": [
         "Sveti velikomučenik Artemije Antiohijski",
         "Sveti pravedni Artemije Verkoljski",
@@ -2966,7 +3028,7 @@
     },
     {
       "date": "11-03",
-      "old_calendar": "21.10.",
+      "julian_date": "10-21",
       "saints": [
         "Prepodobni Ilarion Veliki",
         "Sveti Ilarion, episkop meglenski",
@@ -2976,7 +3038,7 @@
     },
     {
       "date": "11-04",
-      "old_calendar": "22.10.",
+      "julian_date": "10-22",
       "saints": [
         "Sveti ravnoapostolni Averkije Jerapoljski",
         "Prepodobni Lot",
@@ -2985,7 +3047,7 @@
     },
     {
       "date": "11-05",
-      "old_calendar": "23.10.",
+      "julian_date": "10-23",
       "saints": [
         "Sveti apostol Jakov, prvi episkop Jerusalimski",
         "Sveti Ignjatije, patrijarh carigradski",
@@ -2994,17 +3056,17 @@
     },
     {
       "date": "11-06",
-      "old_calendar": "24.10.",
+      "julian_date": "10-24",
       "saints": [
         "Sveti mučenik Areta",
         "Sveti Elezvoj, car etiopski",
-        "Spomen ikone “Svih žalosnih radost”",
+        "Spomen ikone 'Svih žalosnih radost'",
         "Prepodobni Areta Pečerski"
       ]
     },
     {
       "date": "11-07",
-      "old_calendar": "25.10.",
+      "julian_date": "10-25",
       "saints": [
         "Sveti mučenici Markijan i Martirije",
         "Sveti mučenik Anastasije",
@@ -3013,7 +3075,7 @@
     },
     {
       "date": "11-08",
-      "old_calendar": "26.10.",
+      "julian_date": "10-26",
       "saints": [
         "Sveti velikomučenik Dimitrije",
         "Prepodobni mučenik Joasaf",
@@ -3023,7 +3085,7 @@
     },
     {
       "date": "11-09",
-      "old_calendar": "27.10.",
+      "julian_date": "10-27",
       "saints": [
         "Sveti mučenik Nestor",
         "Prepodobni Nestor Letopisac",
@@ -3032,7 +3094,7 @@
     },
     {
       "date": "11-10",
-      "old_calendar": "28.10.",
+      "julian_date": "10-28",
       "saints": [
         "Sveti mučenik Terentije",
         "Sveta mučenica Paraskeva - Petka",
@@ -3044,7 +3106,7 @@
     },
     {
       "date": "11-11",
-      "old_calendar": "29.10.",
+      "julian_date": "10-29",
       "saints": [
         "Sveti Avramije Zatvornik",
         "prepodobnomučenica Anastasija Rimljanka",
@@ -3054,7 +3116,7 @@
     },
     {
       "date": "11-12",
-      "old_calendar": "30.10.",
+      "julian_date": "10-30",
       "saints": [
         "Sveti kralj Milutin",
         "prepodobni Teoktist i Jelena",
@@ -3064,7 +3126,7 @@
     },
     {
       "date": "11-13",
-      "old_calendar": "31.10.",
+      "julian_date": "10-31",
       "saints": [
         "Sveti apostoli Stahije, Amplije, Urvan i drugi",
         "Sveti mučenik Epimah",
@@ -3074,7 +3136,7 @@
     },
     {
       "date": "11-14",
-      "old_calendar": "1.11.",
+      "julian_date": "11-01",
       "saints": [
         "Sveti Kozma i Damjan",
         "Sveti mučenik Erminigeld, carević",
@@ -3084,7 +3146,7 @@
     },
     {
       "date": "11-15",
-      "old_calendar": "2.11.",
+      "julian_date": "11-02",
       "saints": [
         "Sveti mučenici Akindin, Pigasije i drugi s njima",
         "Prepodobni Markijan Kirski",
@@ -3093,7 +3155,7 @@
     },
     {
       "date": "11-16",
-      "old_calendar": "3.11.",
+      "julian_date": "11-03",
       "saints": [
         "Obnovljenje hrama Svetog velikomučenika Georgija",
         "Sveštenomučenik Akepsim, episkop naesonski i drugi s njim",
@@ -3103,12 +3165,12 @@
     },
     {
       "date": "11-17",
-      "old_calendar": "4.11.",
+      "julian_date": "11-04",
       "saints": ["Prepodobni Joanikije Veliki", "sveštenomučenik Nikandar"]
     },
     {
       "date": "11-18",
-      "old_calendar": "5.11.",
+      "julian_date": "11-05",
       "saints": [
         "Prepodobnomučenici Galaktion i Epistima",
         "Sveti apostoli Patrov, Erma, Lin, Gaj i Filolog",
@@ -3117,7 +3179,7 @@
     },
     {
       "date": "11-19",
-      "old_calendar": "6.11.",
+      "julian_date": "11-06",
       "saints": [
         "Sveti Pavle Ispovednik, patrijarh carigradski",
         "prepodobni Varlam Hutinski",
@@ -3126,7 +3188,7 @@
     },
     {
       "date": "11-20",
-      "old_calendar": "7.11.",
+      "julian_date": "11-07",
       "saints": [
         "Sveta 33 mučenika u Melitini",
         "prepodobni Lazar Galasijski",
@@ -3136,13 +3198,13 @@
     },
     {
       "date": "11-21",
-      "old_calendar": "8.11.",
+      "julian_date": "11-08",
       "saints": ["Sabor svetog Arhangela Mihaila i ostalih bestelesnih sila"],
       "note": "Aranđelovdan"
     },
     {
       "date": "11-22",
-      "old_calendar": "9.11.",
+      "julian_date": "11-09",
       "saints": [
         "Sveti mučenici Onisifor i Porfirije",
         "sveti Nektarije Eginski",
@@ -3155,7 +3217,7 @@
     },
     {
       "date": "11-23",
-      "old_calendar": "10.11.",
+      "julian_date": "11-10",
       "saints": [
         "Sveti apostoli Olimp, Erast, Rodion i drugi s njima",
         "Sveti mučenik Orest",
@@ -3164,7 +3226,7 @@
     },
     {
       "date": "11-24",
-      "old_calendar": "11.11.",
+      "julian_date": "11-11",
       "saints": [
         "Sveti mučenik Mina Katuanski",
         "sveti kralj Stefan Dečanski",
@@ -3177,7 +3239,7 @@
     },
     {
       "date": "11-25",
-      "old_calendar": "12.11.",
+      "julian_date": "11-12",
       "saints": [
         "Sveti Jovan Milostivi",
         "Sveti prorok Ahija",
@@ -3187,7 +3249,7 @@
     },
     {
       "date": "11-26",
-      "old_calendar": "13.11.",
+      "julian_date": "11-13",
       "saints": [
         "Sveti Jovan Zlatousti",
         "Sveti mučenici Antonin, Nikifor, German i Maneta",
@@ -3196,7 +3258,7 @@
     },
     {
       "date": "11-27",
-      "old_calendar": "14.11.",
+      "julian_date": "11-14",
       "saints": [
         "Sveti apostol Filip (Božićne poklade)",
         "Sveti Grigorije Palama, arhiepiskop solunski",
@@ -3205,7 +3267,7 @@
     },
     {
       "date": "11-28",
-      "old_calendar": "15.11.",
+      "julian_date": "11-15",
       "saints": [
         "Sveti mučenik Gurije, Samon i Aviv",
         "Sveti mučenici Elpidije, Markel i Evstohije",
@@ -3215,7 +3277,7 @@
     },
     {
       "date": "11-29",
-      "old_calendar": "16.11.",
+      "julian_date": "11-16",
       "saints": [
         "Sveti apostol i jevanđelist Matej",
         "Prepodobni Sergije Malopinežski"
@@ -3223,7 +3285,7 @@
     },
     {
       "date": "11-30",
-      "old_calendar": "17.11.",
+      "julian_date": "11-17",
       "saints": [
         "Sveti Grigorije Čudotvorac",
         "Prepodobni Nikon Radoneški",
@@ -3237,12 +3299,12 @@
     },
     {
       "date": "12-01",
-      "old_calendar": "18.11.",
+      "julian_date": "11-18",
       "saints": ["Sveti mučenici Platon", "Roman", "Varul Otrok"]
     },
     {
       "date": "12-02",
-      "old_calendar": "19.11.",
+      "julian_date": "11-19",
       "saints": [
         "Prorok Avdej",
         "prepodobni Varlam i Joasaf",
@@ -3252,7 +3314,7 @@
     },
     {
       "date": "12-03",
-      "old_calendar": "20.11.",
+      "julian_date": "11-20",
       "saints": [
         "Prepodobni Grigorije Dekapolit (Pretprazništvo Vavedenja)",
         "Sveti Prokl, patrijarh Carigradski",
@@ -3263,12 +3325,12 @@
     },
     {
       "date": "12-04",
-      "old_calendar": "21.11.",
+      "julian_date": "11-21",
       "saints": ["Vavedenje Presvete Bogorodica"]
     },
     {
       "date": "12-05",
-      "old_calendar": "22.11.",
+      "julian_date": "11-22",
       "saints": [
         "Sveti apostoli Filimon",
         "Apfija i Arhip",
@@ -3280,7 +3342,7 @@
     },
     {
       "date": "12-06",
-      "old_calendar": "23.11.",
+      "julian_date": "11-23",
       "saints": [
         "Sveti Amfilohije Ikonijski",
         "sveti Grigorije",
@@ -3291,7 +3353,7 @@
     },
     {
       "date": "12-07",
-      "old_calendar": "24.11.",
+      "julian_date": "11-24",
       "saints": [
         "Sveta velikomučenica Ekaterina",
         "Sveti velikomučenik Merkurije",
@@ -3300,7 +3362,7 @@
     },
     {
       "date": "12-08",
-      "old_calendar": "25.11.",
+      "julian_date": "11-25",
       "saints": [
         "Sveti sveštenomučenik Kliment (Odanije Vavedenja)",
         "Sveštenomučenik Kliment, episkop Rimski",
@@ -3310,7 +3372,7 @@
     },
     {
       "date": "12-09",
-      "old_calendar": "26.11.",
+      "julian_date": "11-26",
       "saints": [
         "Prepodobni Alimpije Stolpnik",
         "Prepodobni Jakov Otšelnik",
@@ -3321,7 +3383,7 @@
     },
     {
       "date": "12-10",
-      "old_calendar": "27.11.",
+      "julian_date": "11-27",
       "saints": [
         "Sveti mučenik Jakov Persijanac",
         "sveti Jakov Rostovski",
@@ -3333,7 +3395,7 @@
     },
     {
       "date": "12-11",
-      "old_calendar": "28.11.",
+      "julian_date": "11-28",
       "saints": [
         "Prepodobnomučenik Stefan",
         "sveti mučenik Hristo",
@@ -3343,7 +3405,7 @@
     },
     {
       "date": "12-12",
-      "old_calendar": "29.11.",
+      "julian_date": "11-29",
       "saints": [
         "Sveti mučenici Paramon i Filumen",
         "Prepodobni Akakije Sinajski",
@@ -3354,7 +3416,7 @@
     },
     {
       "date": "12-13",
-      "old_calendar": "30.11.",
+      "julian_date": "11-30",
       "saints": [
         "Sveti apostol Andrej Prvozvani",
         "Sveti Frumentije, prosvetitelj Abisinije"
@@ -3362,12 +3424,12 @@
     },
     {
       "date": "12-14",
-      "old_calendar": "1.12.",
+      "julian_date": "12-01",
       "saints": ["Sveti prorok Naum", "sveti Filaret Milostivi"]
     },
     {
       "date": "12-15",
-      "old_calendar": "2.12.",
+      "julian_date": "12-02",
       "saints": [
         "Sveti prorok Avakum",
         "Sveti car Uroš",
@@ -3379,7 +3441,7 @@
     },
     {
       "date": "12-16",
-      "old_calendar": "3.12.",
+      "julian_date": "12-03",
       "saints": [
         "Sveti prorok Sofonije",
         "prepodobni Jovan Ćutljivi",
@@ -3390,7 +3452,7 @@
     },
     {
       "date": "12-17",
-      "old_calendar": "4.12.",
+      "julian_date": "12-04",
       "saints": [
         "Sveta velikomučenica Varvara",
         "prepodobni Jovan Damaskin",
@@ -3399,7 +3461,7 @@
     },
     {
       "date": "12-18",
-      "old_calendar": "5.12.",
+      "julian_date": "12-05",
       "saints": [
         "Prepodobni Sava Osvećeni",
         "sveti Nektarije Bitoljski",
@@ -3409,7 +3471,7 @@
     },
     {
       "date": "12-19",
-      "old_calendar": "6.12.",
+      "julian_date": "12-06",
       "saints": [
         "Sveti Nikolaj arhiepiskop Mirlikijski čudotvorac",
         "Sveti Nikolaj, episkop patarski",
@@ -3420,7 +3482,7 @@
     },
     {
       "date": "12-20",
-      "old_calendar": "7.12.",
+      "julian_date": "12-07",
       "saints": [
         "Sveti Amvrosije",
         "prepodobni Grigorije Gornjački",
@@ -3429,7 +3491,7 @@
     },
     {
       "date": "12-21",
-      "old_calendar": "8.12.",
+      "julian_date": "12-08",
       "saints": [
         "Prepodobni Patapije",
         "sveti apostoli Sosten, Apolos i drugi",
@@ -3438,7 +3500,7 @@
     },
     {
       "date": "12-22",
-      "old_calendar": "9.12.",
+      "julian_date": "12-09",
       "saints": [
         "Začeće Svete Ane",
         "Sveta Ana, mater proroka Samuila",
@@ -3448,7 +3510,7 @@
     },
     {
       "date": "12-23",
-      "old_calendar": "10.12.",
+      "julian_date": "12-10",
       "saints": [
         "Sveti mučenici Mina i drugi",
         "sveti Jovan, despot Srpski i Mati Angelina",
@@ -3458,7 +3520,7 @@
     },
     {
       "date": "12-24",
-      "old_calendar": "11.12.",
+      "julian_date": "12-11",
       "saints": [
         "Prepodobni Danilo Stolpnik",
         "Prepodobni Luka Stolpnik",
@@ -3468,7 +3530,7 @@
     },
     {
       "date": "12-25",
-      "old_calendar": "12.12.",
+      "julian_date": "12-12",
       "saints": [
         "Prepodobni Spiridon Čudotvorac episkop Trimitunski",
         "Sveštenomučenik Aleksandar, episkop jerusalimski",
@@ -3477,7 +3539,7 @@
     },
     {
       "date": "12-26",
-      "old_calendar": "13.12.",
+      "julian_date": "12-13",
       "saints": [
         "Sveti mučenik Evstratije",
         "sveti sveštenomučenik Gavrilo",
@@ -3488,7 +3550,7 @@
     },
     {
       "date": "12-27",
-      "old_calendar": "14.12.",
+      "julian_date": "12-14",
       "saints": [
         "Sveti mučenici Tirs, Levkije, Filimon, Apolonije i drugi",
         "Sveti mučenici Tirs, Levkije i Kalinik"
@@ -3496,7 +3558,7 @@
     },
     {
       "date": "12-28",
-      "old_calendar": "15.12.",
+      "julian_date": "12-15",
       "saints": [
         "Sveti sveštenomučenik Elevterije",
         "prepodobni Pavle",
@@ -3506,7 +3568,7 @@
     },
     {
       "date": "12-29",
-      "old_calendar": "16.12.",
+      "julian_date": "12-16",
       "saints": [
         "Sveti prorok Agej",
         "sveta Teofanija carica",
@@ -3515,7 +3577,7 @@
     },
     {
       "date": "12-30",
-      "old_calendar": "17.12.",
+      "julian_date": "12-17",
       "saints": [
         "Sveti prorok Danilo",
         "sveti prepodobnomuč. đakon Avakum i iguman Pajsije",
@@ -3524,7 +3586,7 @@
     },
     {
       "date": "12-31",
-      "old_calendar": "18.12.",
+      "julian_date": "12-18",
       "saints": [
         "Sveti mučenik Sevastijan",
         "Sveti Flor, episkop aminski",
