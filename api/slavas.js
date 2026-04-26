@@ -7,24 +7,25 @@ function isValidMonth(month) {
   return monthInt >= 1 && monthInt <= 12 && month.length === 2;
 }
 
-// Helper to validate date parts (basic check)
+// Strict MM-DD list validator, matches the OpenAPI 'date' parameter pattern.
+const DATE_QUERY_RE = /^(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])(,(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01]))*$/;
 function isValidDateQuery(dateQuery) {
-  if (typeof dateQuery !== 'string') return false;
-  // Basic check: allows "MM-DD" or "DD" like formats, non-empty.
-  // More specific regex could be used if strict "MM-DD" is required for query params.
-  return dateQuery.split(",").every(d => d.trim().length > 0 && d.trim().includes('-'));
+  return typeof dateQuery === 'string' && DATE_QUERY_RE.test(dateQuery);
 }
 
 export default function handler(req, res) {
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Content-Type", "application/json; charset=utf-8");
+
   const { month, date: dateQuery } = req.query;
   let results = [];
 
   // Input Validation
   if (month !== undefined && !isValidMonth(month)) {
-    return res.status(400).json({ error: "Invalid month parameter. Use '01' through '12'." });
+    return res.status(400).json({ message: "Invalid month parameter. Use '01' through '12'." });
   }
   if (dateQuery !== undefined && !isValidDateQuery(dateQuery)) {
-    return res.status(400).json({ error: "Invalid date parameter. Use comma-separated MM-DD format (e.g., '01-20,03-15')." });
+    return res.status(400).json({ message: "Invalid date parameter. Use comma-separated MM-DD format (e.g., '01-20,03-15')." });
   }
 
   const datesToFilter = dateQuery ? dateQuery.split(",").map((d) => d.trim()) : null;
@@ -68,6 +69,6 @@ export default function handler(req, res) {
     }
   }
 
-  res.setHeader("Content-Type", "application/json; charset=utf-8");
+  res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=604800");
   res.status(200).json(results);
 }
